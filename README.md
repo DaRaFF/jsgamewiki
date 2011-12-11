@@ -1,3 +1,3 @@
 Please see the wiki - https://github.com/DaRaFF/jsgamewiki/wiki.  :-)
 
-test [Test](/test.md)
+test [Test](/DaRaFF/jsgamewiki/test.md)
