@@ -52,7 +52,7 @@ And now, have fun :-)
   * [HTML5 Tutorials](#html5-tutorials)
   * [HTML5 Performance](#html5-performance)
   * [HTML5 Demos](#html5-demos)
-  * [[HTML5 API]]
+  * [HTML5 API](#html5-api)
   * [[HTML5 + CSS]]
 * Javascript
   * [[Javascript Tutorial]]
@@ -226,6 +226,14 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/index.html)
 * [Canvas Demos](http://www.canvasdemos.com/)
 
+
+
+
+##<a name="html5-api">HTML5 API</a>
+* [HTML5 Doctor](http://html5doctor.com/) - API
+* [HTML5 Canvas](http://canvas.quaese.de/) - API - german
+* [HTML5 Readyness](http://html5readiness.com/)
+* [Caniuse](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 
 
 
