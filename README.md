@@ -50,7 +50,7 @@ And now, have fun :-)
 ##Part II - Game related stuff
 * HTML5
   * [HTML5 Tutorials](#html5-tutorials)
-  * [[HTML5 Performance]]
+  * [HTML5 Performance](#html5-performance)
   * [[HTML5 Demos]]
   * [[HTML5 API]]
   * [[HTML5 + CSS]]
@@ -207,6 +207,14 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
+##<a name="html5-performance">HTML5 Performance</a>
+###Articles
+* [Off-Screen Rendering (Render to Texture) with HTML5's Canvas Element](http://kaioa.com/node/103)
+* [Creating 2D Games with JavaScript & HTML5 from Dominic Szablewski on ](http://googlecode.blogspot.com/2011/05/creating-2d-games-with-javascript-html5.html) - Tips drawing performance
+* [Project: JavaScript 2D Tile Engine with HTML5 Canvas – Part 3 – Culling and Performance](http://www.johnegraham2.com/web-technology/javascript-2d-tile-engine-html5-canvas-part-3/)
+* [HTML5 Canvas DrawText Considered Harmful](http://simonsarris.com/blog/322-canvas-drawtext-considered-harmful)
+* [requestAnimationFrame for Smart Animating](http://paulirish.com/2011/requestanimationframe-for-smart-animating/)
+* [Beating 60fps in javascript](http://chandler.prallfamily.com/2011/06/beating-60fps-in-javascript/)
 
 
 
