@@ -39,7 +39,7 @@ And now, have fun :-)
 
 ## Part I - Game stuff
 ### Gaming Sources
-* [[Game Tutorials]] - Tutorial or tutorial series about game programming with javascript
+* [Game Tutorials](#game-tutorials) - Tutorial or tutorial series about game programming with javascript
 * [[Game Blogs]] - Blogs about game programming with javascript, tutorials, news...
 * [[Game Talks]] - Talks / Presentation about game programming
 * [[Game Design]] - The art of game design
@@ -79,3 +79,46 @@ And now, have fun :-)
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
 * [web-design-weekly](http://web-design-weekly.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+##<a name="game-tutorials">Game Turorials</a>
+### Javascript - Canvas
+* [Space Shooter](http://www.html5rocks.com/tutorials/canvas/notearsgame/)
+* [Breakout Clone](http://billmill.org/static/canvastutorial/index.html)
+* [Simple Snake Game](http://css-tricks.com/9876-learn-canvas-snake-game/)
+* [HTML 5 Game Development](http://vimeo.com/22875420) - video tutorial serie from Jono X - actually running
+* [The most simple RPG](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Step by step tutorial by Lost Decade Games
+* [Brickblock Game](http://css.dzone.com/articles/how-write-brikbloc-game-html5)
+* [Snake Game](http://ralphsaunders.co.uk/blogged-about/snake-in-html5-canvas-a-tutorial/) - Step by step tutorial by Ralph Saunders
+* [Doodle Jump Clone](http://michalbe.blogspot.com/2010/09/simple-game-with-html5-canvas-part-1.html)
+* [jsPlattformer](http://www.brighthub.com/hubfolio/matthew-casperson/blog/archive/2009/06/29/game-development-with-javascript-and-the-canvas-element.aspx) | js platform game tutorial
+* [js RPG Game Tutorial](http://dailyjs.com/2011/02/11/crafty/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+dailyjs+(DailyJS)) - made with [craftyJs game framework](http://craftyjs.com/)
+* [Super Mario Bros](http://qfox.nl/weblog/232)
+* [Tile Based Game](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - Accelerated Game Programming with HTML5 and canvas
+* [HTML5 Jump'n Run](http://purplefloyd.wordpress.com/2009/09/11/a-platform-game-written-in-html5/) - no tutorial, but excellent code for study
+* [Jumper Game with box2d Engine](http://net.tutsplus.com/tutorials/html-css-techniques/build-your-first-game-with-html5/)
+* [Boulderdash](http://codeincomplete.com/posts/2011/10/25/javascript_boulderdash/)
+* [HTML5 Game Platformer](blogs.msdn.com/b/davrous/archive/2011/09/08/html5-platformer-the-complete-port-of-the-xna-game-to-lt-canvas-gt-with-easeljs.aspx)
+* [Multiplayergame with Websockets](http://rawkes.com/blog/2011/11/06/creating-a-real-time-multiplayer-game-with-websockets-and-node.js)
+
+
+### actionscript
+because actionscript is very similar to javascript. you can definitely take away some concepts.
+
+* [Tile Based Games](http://www.tonypa.pri.ee/tbw/start.html)
+
+
+
+
+
+
