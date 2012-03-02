@@ -96,6 +96,11 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Blog of nihilogic](http://blog.nihilogic.dk/) - articles and experiments
 * [Blog of Ben Joffe](http://www.benjoffe.com/code/) - experiments
 
+###Forums for General Game Development (no javascript)
+* [Devmaster](http://devmaster.net/forums/)
+* [Tigsource](http://forums.tigsource.com/)
+* [Indiegamer](http://forums.indiegamer.com/)
+
 
 
 
