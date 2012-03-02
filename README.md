@@ -49,7 +49,7 @@ And now, have fun :-)
 
 ##Part II - Game related stuff
 * HTML5
-  * [[HTML5 Tutorials]]
+  * [HTML5 Tutorials](#html5-tutorials)
   * [[HTML5 Performance]]
   * [[HTML5 Demos]]
   * [[HTML5 API]]
@@ -70,17 +70,8 @@ And now, have fun :-)
 
 
 
-
-
-
-
-
-
-
-
-
 ##<a name="game-tutorials">Game Tutorials</a>
-### Javascript - Canvas
+###Javascript - Canvas
 * [Space Shooter](http://www.html5rocks.com/tutorials/canvas/notearsgame/)
 * [Breakout Clone](http://billmill.org/static/canvastutorial/index.html)
 * [Simple Snake Game](http://css-tricks.com/9876-learn-canvas-snake-game/)
@@ -99,13 +90,10 @@ And now, have fun :-)
 * [HTML5 Game Platformer](blogs.msdn.com/b/davrous/archive/2011/09/08/html5-platformer-the-complete-port-of-the-xna-game-to-lt-canvas-gt-with-easeljs.aspx)
 * [Multiplayergame with Websockets](http://rawkes.com/blog/2011/11/06/creating-a-real-time-multiplayer-game-with-websockets-and-node.js)
 
-
-### actionscript
+###actionscript
 because actionscript is very similar to javascript. you can definitely take away some concepts.
 
 * [Tile Based Games](http://www.tonypa.pri.ee/tbw/start.html)
-
-
 
 
 
@@ -129,6 +117,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
+
 ##<a name="game-talks">Game Talks</a>
 ###Video / Audio
 * [Lunch with Rob Hawkes: HTML5 Games](http://de.justin.tv/marakana_techtv/b/289978824) - by Rob Hawkes - Overview and lessons learned for html5 game programming
@@ -144,15 +133,18 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
+
 ##<a name="game-design">Game Design</a>
 * [Gameprogrammingpatterns](http://gameprogrammingpatterns.com/)
 * http://www.gamasutra.com/view/feature/6362/redesigning_wild_ones_into_.php - Article about changing a game by 10 design decisions
 * [Making html5 Games Match your Screen](http://blog.gopherwoodstudios.com/2011/04/making-html5-games-match-your-screen.html)
 
+
+
+
 ##<a name="game-engines">Game Engines</a>
 * [Game Engine list](https://github.com/bebraw/jswiki/wiki/Game-Engines) - very good an complete overview of javascript game engines
 * [storymoto](http://storymoto.gamamoto.com/) - the game story engine
-
 
 
 
@@ -175,6 +167,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
+
 ##<a name="graphics-and-sound">Graphics and Sound</a>
 ###Graphic
 * [Opengameart](http://opengameart.org/) - Free, legal art for open source game projects
@@ -194,6 +187,22 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
+
+##<a name="html5-tutorials">HTML5 Tutorials</a>
+###HTML5 Tutorials
+* [HTML5 Rocks](http://www.html5rocks.com/tutorials/) - Tutorials
+* [The Official Guide to the HTML5 Boilerplate](http://blip.tv/nettuts/the-official-guide-to-the-html5-boilerplate-4054998) - Video tutorial by Paul Irish
+* http://www.html5tutorial.info/
+
+###HTML5 Talks
+* [Paul Irish on HTML5 Boilerplate](http://www.youtube.com/watch?v=qyM37XKkmKQ) - Talk by Paul Irish
+
+###Canvas Tutorials
+* [Canvas Tutorials and Resources](http://websitesmaderight.com/2011/04/html5-canvas-tutorials-and-resources/) - List of canvas tutorials and resources
+* [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/) - Tutorials
+* [31 Days of Javascript](http://www.bit-101.com/blog/?cat=17) - Canvas and Javascript Tutorials in 31 Days - search for Javascript Day X
+* [HTML5/CSS3 Workshops](http://www.youtube.com/user/ThytOS#p/u/6/f-CYAMhxbW4) - Video tutorials by ThytOS - german
+* [HTML5 Canvas Animation](http://www.youtube.com/user/ThytOS#p/u/8/0C0_Vn-txbI) - Video tutorial by ThytOS - 8000 bullets animation - german
 
 
 
