@@ -56,8 +56,7 @@ And now, have fun :-)
   * [HTML5 + CSS](#html5-and-css)
 * Javascript
   * [Javascript Tutorial](#javascript-tutorial)
-  * [[Javascript Articles]]
-  * [[Javascript Reference]]
+  * [Javascript Reference](#javascript-reference)
   * [[Javascript Libraries]]
   * [[Javascript Performance]]
   * [[Javascript Talks]]
@@ -251,6 +250,14 @@ because actionscript is very similar to javascript. you can definitely take away
 * [koans to learn Javascript](https://github.com/mrdavidlaing/javascript-koans) - learning by finding errors
 * [learnJs](http://learnjs.org) - short useful code snippets
 
+
+
+
+##<a name="javascript-reference">Javascript Reference</a>
+* [Javascript reference](https://developer.mozilla.org/en/JavaScript) - from Mozilla Developer Center
+* [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - best practises for javascript programming
+* [Front end development guidelines](http://taitems.github.com/Front-End-Development-Guidelines/) - best practises for front end development
+* [idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 
 
 
