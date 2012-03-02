@@ -51,7 +51,7 @@ And now, have fun :-)
 * HTML5
   * [HTML5 Tutorials](#html5-tutorials)
   * [HTML5 Performance](#html5-performance)
-  * [[HTML5 Demos]]
+  * [HTML5 Demos](#html5-demos)
   * [[HTML5 API]]
   * [[HTML5 + CSS]]
 * Javascript
@@ -215,6 +215,16 @@ because actionscript is very similar to javascript. you can definitely take away
 * [HTML5 Canvas DrawText Considered Harmful](http://simonsarris.com/blog/322-canvas-drawtext-considered-harmful)
 * [requestAnimationFrame for Smart Animating](http://paulirish.com/2011/requestanimationframe-for-smart-animating/)
 * [Beating 60fps in javascript](http://chandler.prallfamily.com/2011/06/beating-60fps-in-javascript/)
+
+
+
+
+##<a name="html5-demos">HTML5 Demos</a>
+* [Chrome Experiments](http://www.chromeexperiments.com/)
+* [HTML5 Canvas Demos by Kevin Roast](http://www.kevs3d.co.uk/dev/index.html)
+* [Mozilla Demo Studio](https://developer.mozilla.org/en-US/demos/)
+* [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/index.html)
+* [Canvas Demos](http://www.canvasdemos.com/)
 
 
 
