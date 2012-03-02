@@ -1,16 +1,10 @@
-Actually im moving the wiki to the this README.md
-
-Please see the wiki until it's finished - https://github.com/DaRaFF/jsgamewiki/wiki.  :-)
-
 #Welcome to the jsGameWiki!
-
 This is the brain for game programming with html5/canvas/javascript. 
 
 I'm trying to structure helpful sources like eBooks, videos, blogs, articles, presentations...
 
 
 ### Structure
-
 Part I - Here is the stuff which is really relevant to game programming with html5/canvas/javascript
 
 Part II - Here is the stuff which is related to webdevelopment and can be useful if you want to improve your basic skills
