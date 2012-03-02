@@ -57,7 +57,7 @@ And now, have fun :-)
 * Javascript
   * [Javascript Tutorial](#javascript-tutorial)
   * [Javascript Reference](#javascript-reference)
-  * [[Javascript Libraries]]
+  * [Javascript Libraries](#javascript-libraries)
   * [[Javascript Performance]]
   * [[Javascript Talks]]
   * [bebraw's jswiki](https://github.com/bebraw/jswiki/wiki) - big list of javascript libraries and resources
@@ -261,8 +261,22 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
+##<a name="javascript-libraries">Javascript Libraries</a>
+###Library Lists
+* [microJs](http://microjs.com/) - list of micro frameworks
+* [everyJs](http://www.everyjs.com/) - list of useful frameworks
 
-
+###Libraries
+* [modernizr](modernizr.com/) - testing on active html5 + css features in browsers
+* [stats.js](https://github.com/mrdoob/stats.js) - nice little tool to show fps stats
+* [sprite.js](https://github.com/batiste/sprite.js) - tool for sprite animation + nice demos
+* [augment.js](http://olivernn.github.com/augment.js) - enrich browsers with modern javascript methods (ECMA 1.8.5)
+* [ape project](http://www.ape-project.org) - APE (Ajax Push Engine)
+* [weinre](http://pmuellr.github.com/weinre/) - Remotedebugging Console: debug your iPhone, iPad, Wii etc. remotely from your PC
+* [Socket.IO](http://socket.io/) - supports websockets and aims to make realtime apps possible in every browser and mobile device
+* [nowjs](http://nowjs.com/) - makes realtime web apps really easy
+* [Closure compiler](http://code.google.com/intl/de-DE/closure/compiler/) - Compiles javascript to javascript
+* [Pxxl.js](http://remcoder.github.com/Pxxl.js/) - HTML5 Canvas utility to render texts in retro style and more.
 
 
 
