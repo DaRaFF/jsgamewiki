@@ -42,7 +42,7 @@ And now, have fun :-)
 * [Game Tutorials](#game-tutorials) - Tutorial or tutorial series about game programming with javascript
 * [Game Blogs](#game-blogs) - Blogs about game programming with javascript, tutorials, news...
 * [Game Talks](#game-talks) - Talks / Presentation about game programming
-* [[Game Design]] - The art of game design
+* [Game Design](#game-design) - The art of game design
 * [[Game Engines]]
 * [[Javascript Games]] - for inspiration
 * [[Graphics + Sound]]
@@ -141,6 +141,19 @@ because actionscript is very similar to javascript. you can definitely take away
 ###Presentations / Slides
 * [5 tips for your html5 games](http://www.slideshare.net/ernesto.jimenez/5-tips-for-your-html5-games)
 * [10 tips to get started with html5 games](http://www.slideshare.net/KukoljGregory/10-tips-to-get-started-with-html5-games)
+
+
+
+##<a name="game-design">Game Design</a>
+* [Gameprogrammingpatterns](http://gameprogrammingpatterns.com/)
+* http://www.gamasutra.com/view/feature/6362/redesigning_wild_ones_into_.php - Article about changing a game by 10 design decisions
+* [Making html5 Games Match your Screen](http://blog.gopherwoodstudios.com/2011/04/making-html5-games-match-your-screen.html)
+
+
+
+
+
+
 
 
 
