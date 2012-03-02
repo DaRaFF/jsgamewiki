@@ -172,6 +172,8 @@ because actionscript is very similar to javascript. you can definitely take away
 ##<a name="html5-tutorials">HTML5 Tutorials</a>
 ###HTML5 Tutorials
 * [HTML5 Landingpage by Mozilla](https://developer.mozilla.org/en-US/learn/html5) - Great Landingpage by Mozilla 
+* [HTML5 Gamedevs](http://www.html5gamedevs.com/) - Gamedeveloper News
+* [HTML5 Game Development](http://www.html5gamedevelopment.org/) - Game Development News and Tutorials
 * [HTML5 Rocks](http://www.html5rocks.com/tutorials/) - Tutorials
 * [The Official Guide to the HTML5 Boilerplate](http://blip.tv/nettuts/the-official-guide-to-the-html5-boilerplate-4054998) - Video tutorial by Paul Irish
 * http://www.html5tutorial.info/
