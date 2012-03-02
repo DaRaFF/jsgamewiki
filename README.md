@@ -55,7 +55,7 @@ And now, have fun :-)
   * [HTML5 API](#html5-api)
   * [HTML5 + CSS](#html5-and-css)
 * Javascript
-  * [[Javascript Tutorial]]
+  * [Javascript Tutorial](#javascript-tutorial)
   * [[Javascript Articles]]
   * [[Javascript Reference]]
   * [[Javascript Libraries]]
@@ -241,6 +241,19 @@ because actionscript is very similar to javascript. you can definitely take away
 ##<a name="html5-and-css">HTML5 and CSS</a>
 * [HTML5 Snippets](http://html5snippets.com/) - Examples for HTML5, CSS effects
 * [Fluid Layout Code](http://www.vanseodesign.com/css/fluid-layout-code/)
+
+
+
+
+##<a name="javascript-tutorial">Javascript Tutorial</a>
+* [Mozilla Canvas tutorial](https://developer.mozilla.org/en/canvas_tutorial)
+* [Opera Javascript tutorials](http://dev.opera.com/articles/javascript/)
+* [koans to learn Javascript](https://github.com/mrdavidlaing/javascript-koans) - learning by finding errors
+* [learnJs](http://learnjs.org) - short useful code snippets
+
+
+
+
 
 
 
