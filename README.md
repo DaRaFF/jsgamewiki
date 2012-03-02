@@ -41,7 +41,7 @@ And now, have fun :-)
 ### Gaming Sources
 * [Game Tutorials](#game-tutorials) - Tutorial or tutorial series about game programming with javascript
 * [Game Blogs](#game-blogs) - Blogs about game programming with javascript, tutorials, news...
-* [[Game Talks]] - Talks / Presentation about game programming
+* [Game Talks](#game-talks) - Talks / Presentation about game programming
 * [[Game Design]] - The art of game design
 * [[Game Engines]]
 * [[Javascript Games]] - for inspiration
@@ -126,6 +126,21 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Blog of mr doob](http://mrdoob.com/blog) - very exciting experiments
 * [Blog of nihilogic](http://blog.nihilogic.dk/) - articles and experiments
 * [Blog of Ben Joffe](http://www.benjoffe.com/code/) - experiments
+
+
+
+##<a name="game-talks">Game Talks</a>
+###Video / Audio
+* [Lunch with Rob Hawkes: HTML5 Games](http://de.justin.tv/marakana_techtv/b/289978824) - by Rob Hawkes - Overview and lessons learned for html5 game programming
+* [Building a JavaScript-Based Game Engine for the Web](http://www.youtube.com/watch?v=_RRnyChxijA)
+* [Multiplayer Gaming with HTML5: Are We Ready?](http://vimeo.com/22549177)
+* [Developing Games for the Web](http://www.youtube.com/watch?v=OnwG8Xb0_S8)
+* [Angry Birds on HTML5](http://www.infoq.com/presentations/Angry-Birds-on-HTML5) - Challenges to port Angry Birds to Chrome/HTML5
+* [Lostcast](http://www.lostdecadegames.com/lostcast/) - Nice talks about game programming with Javascript. They also provide some very good links.
+
+###Presentations / Slides
+* [5 tips for your html5 games](http://www.slideshare.net/ernesto.jimenez/5-tips-for-your-html5-games)
+* [10 tips to get started with html5 games](http://www.slideshare.net/KukoljGregory/10-tips-to-get-started-with-html5-games)
 
 
 
