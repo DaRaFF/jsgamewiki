@@ -43,7 +43,7 @@ And now, have fun :-)
 * [Game Blogs](#game-blogs) - Blogs about game programming with javascript, tutorials, news...
 * [Game Talks](#game-talks) - Talks / Presentation about game programming
 * [Game Design](#game-design) - The art of game design
-* [[Game Engines]]
+* [Game Engines](#game-engines)
 * [[Javascript Games]] - for inspiration
 * [[Graphics + Sound]]
 
@@ -149,7 +149,9 @@ because actionscript is very similar to javascript. you can definitely take away
 * http://www.gamasutra.com/view/feature/6362/redesigning_wild_ones_into_.php - Article about changing a game by 10 design decisions
 * [Making html5 Games Match your Screen](http://blog.gopherwoodstudios.com/2011/04/making-html5-games-match-your-screen.html)
 
-
+##<a name="game-engines">Game Engines</a>
+* [Game Engine list](https://github.com/bebraw/jswiki/wiki/Game-Engines) - very good an complete overview of javascript game engines
+* [storymoto](http://storymoto.gamamoto.com/) - the game story engine
 
 
 
