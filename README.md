@@ -40,7 +40,7 @@ And now, have fun :-)
 ## Part I - Game stuff
 ### Gaming Sources
 * [Game Tutorials](#game-tutorials) - Tutorial or tutorial series about game programming with javascript
-* [[Game Blogs]] - Blogs about game programming with javascript, tutorials, news...
+* [Game Blogs](#game-blogs) - Blogs about game programming with javascript, tutorials, news...
 * [[Game Talks]] - Talks / Presentation about game programming
 * [[Game Design]] - The art of game design
 * [[Game Engines]]
@@ -104,6 +104,30 @@ And now, have fun :-)
 because actionscript is very similar to javascript. you can definitely take away some concepts.
 
 * [Tile Based Games](http://www.tonypa.pri.ee/tbw/start.html)
+
+
+
+
+
+
+##<a name="game-blogs">Game Blogs</a>
+###Blogs about gaming
+* [Blog of Rob Hawkes](http://rawkes.com/) - experiments, talks, book, posts
+* [Blog of glacialflame](http://glacialflame.com/) - articles about isometric games
+* [Blog of That Guy](http://that-guy.net/articles/) - nice article serie about tile game engine
+* [Blog of michalbe](http://michalbe.blogspot.com/) - nice tutorials and posts about game engineering
+* [Old Blog of Marc Wilcox](http://rebelfive.wordpress.com/) - [New Blog of Marc Wilcox](http://www.spacemonsters.co.uk/) - Great HTML5 Game design posts
+* [Blog of nokarma](http://nokarma.org/) - 2 very good posts - does he write a following article?
+* [Blog about indiegames](http://www.indiegamepod.com/) - Videos about indiegames
+* [Blog of lostdecadegames](http://blog.lostdecadegames.com/) - Some interesting posts about game design from the company lostdecadegames
+* [Blog of Emanuele Feronato](http://www.emanueleferonato.com/) - very much posts about flash and game design, but hey, you can learn so much from flash
+
+###Blogs about experiments / demos
+* [Blog of mr doob](http://mrdoob.com/blog) - very exciting experiments
+* [Blog of nihilogic](http://blog.nihilogic.dk/) - articles and experiments
+* [Blog of Ben Joffe](http://www.benjoffe.com/code/) - experiments
+
+
 
 
 
