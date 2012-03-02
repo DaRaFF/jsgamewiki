@@ -11,28 +11,16 @@ Part II - Here is the stuff which is related to webdevelopment and can be useful
 
 
 ### Other Sources
-
-First good start point for good javascript resources is bebraw with his sensational [jswiki](https://github.com/bebraw/jswiki/wiki). 
+First start point for good javascript resources is bebraw with his sensational [jswiki](https://github.com/bebraw/jswiki/wiki). 
 
 Actually I see jsGameWiki as an addition to jsWiki for game programming topics.
 
 
 ### Contributors
-
 In case you want to contribute, let's do it! Here is a place for people who whants to learn something about game programming and I'm very happy if you have some interesting sources.
-This wiki is open for anyone to modify. If you change something, please do explain what and perhaps why.
 
 
-### Let's start
-
-True to the maxim - release early, release often - my first commit is only a starting point. Content and structure can and should change over time.
-
-And now, have fun :-)
-
-
-
-## Part I - Game stuff
-### Gaming Sources
+## Part I - Game Sources
 * [Game Tutorials](#game-tutorials) - Tutorial or tutorial series about game programming with javascript
 * [Game Blogs](#game-blogs) - Blogs about game programming with javascript, tutorials, news...
 * [Game Talks](#game-talks) - Talks / Presentation about game programming
@@ -41,7 +29,7 @@ And now, have fun :-)
 * [Javascript Games](#javascript-games) - for inspiration
 * [Graphics + Sound](#graphics-and-sound)
 
-##Part II - Game related stuff
+##Part II - Game Related
 * HTML5
   * [HTML5 Tutorials](#html5-tutorials)
   * [HTML5 Performance](#html5-performance)
