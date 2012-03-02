@@ -45,7 +45,7 @@ And now, have fun :-)
 * [Game Design](#game-design) - The art of game design
 * [Game Engines](#game-engines)
 * [Javascript Games](#javascript-games) - for inspiration
-* [[Graphics + Sound]]
+* [Graphics + Sound](#graphics-and-sound)
 
 ##Part II - Game related stuff
 * HTML5
@@ -172,6 +172,38 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Legend of Zelda - Game Boy emulation](http://grantgalitz.org/get_the_hell_out/LegendOfZelda_Links_Awakening/)
 * [HTML5-games](http://html5-games.org/) - game platform with different html5 games
 * [Command & Conquer](http://www.adityaravishankar.com/projects/games/command-and-conquer/) - Command & Conquer clone
+
+
+
+##<a name="graphics-and-sound">Graphics and Sound</a>
+###Graphic
+* [Opengameart](http://opengameart.org/) - Free, legal art for open source game projects
+* [Free sprites](http://teh_pro.webs.com/sprites.htm)
+* [Game sprites](http://spriters-resource.com/)
+* [Sprite database](http://neuropod.net/PHP_SDB/) - ripped, not sure if free
+* [iconfinder](http://www.iconfinder.com/) - sprites with different licenses
+* [Tiled Map Editor](http://www.mapeditor.org/) - free open source tiled map editor
+
+###Sound
+* [html5media](http://html5media.info/) - easy embedding of video and audio
+* [media.io](http://media.io/) - online audio converter
+* [nosoapradio.us](http://www.nosoapradio.us/) - Game music - free
+* [Playonloop](http://www.playonloop.com/) - Game music - free or with costs
+* [freesound](http://www.freesound.org/) - Sounds - free
+* [Absolute sound effects archive](http://www.grsites.com/archive/sounds/) - Soundeffects - free
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
