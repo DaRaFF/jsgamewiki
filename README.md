@@ -222,6 +222,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [HTML5 Doctor](http://html5doctor.com/) - API
 * [HTML5 Canvas](http://canvas.quaese.de/) - API - german
 * [HTML5 Readyness](http://html5readiness.com/)
+* [HTML5 Please](http://html5please.com/)
 * [Caniuse](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 
 
