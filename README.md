@@ -65,11 +65,8 @@ And now, have fun :-)
   * [Rey Bangos - The Big List of JavaScript, CSS, and HTML Development Tools, Libraries, Projects, and Books](http://blog.reybango.com/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/)
 * Other
   * [Books](#books)
+  * [Email - Newsletter](#email-newsletter)
 
-###Email - Newsletter
-* [javascriptweekly](http://javascriptweekly.com/)
-* [html5weekly](http://html5weekly.com/)
-* [web-design-weekly](http://web-design-weekly.com/)
 
 
 
@@ -119,6 +116,11 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Javascript Bibliography](http://oreilly.com/catalog/0636920021926) - free eBook by editors of Safary books online
 * [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
 * [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
+
+##<a name="email-newsletter">Email - Newsletter</a>
+* [javascriptweekly](http://javascriptweekly.com/)
+* [html5weekly](http://html5weekly.com/)
+* [web-design-weekly](http://web-design-weekly.com/) 
 
 
 
