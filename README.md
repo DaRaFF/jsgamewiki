@@ -44,7 +44,7 @@ And now, have fun :-)
 * [Game Talks](#game-talks) - Talks / Presentation about game programming
 * [Game Design](#game-design) - The art of game design
 * [Game Engines](#game-engines)
-* [[Javascript Games]] - for inspiration
+* [Javascript Games](#javascript-games) - for inspiration
 * [[Graphics + Sound]]
 
 ##Part II - Game related stuff
@@ -152,6 +152,28 @@ because actionscript is very similar to javascript. you can definitely take away
 ##<a name="game-engines">Game Engines</a>
 * [Game Engine list](https://github.com/bebraw/jswiki/wiki/Game-Engines) - very good an complete overview of javascript game engines
 * [storymoto](http://storymoto.gamamoto.com/) - the game story engine
+
+
+
+
+
+##<a name="javascript-games">Javascript Games</a>
+###Here you can learn so much
+* [js1k contest](http://js1k.com/)
+* [js10k contest](http://10k.aneventapart.com/)
+* [Javascriptgaming](http://www.javascriptgaming.com/)
+* [html5gamejam (2010)](http://www.html5gamejam.com/games)
+* [demoJs](http://demojs.org/)
+* [banditracer](http://www.banditracer.eu/) - micro machines like game written with gamejs framework
+
+###Here are some rememberable projects - but partial with compressed code
+* [canvasrider](http://canvasrider.com/) - it's fun
+* [freeciv](http://www.freeciv.net/) - Online Civilisation clone
+* [Legend of Zelda - Game Boy emulation](http://grantgalitz.org/get_the_hell_out/LegendOfZelda_Links_Awakening/)
+* [HTML5-games](http://html5-games.org/) - game platform with different html5 games
+* [Command & Conquer](http://www.adityaravishankar.com/projects/games/command-and-conquer/) - Command & Conquer clone
+
+
 
 
 
