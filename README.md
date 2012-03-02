@@ -9,8 +9,6 @@ This is the brain for game programming with html5/canvas/javascript.
 I'm trying to structure helpful sources like eBooks, videos, blogs, articles, presentations...
 
 
-
-
 ### Structure
 
 Part I - Here is the stuff which is really relevant to game programming with html5/canvas/javascript
@@ -37,8 +35,10 @@ True to the maxim - release early, release often - my first commit is only a sta
 
 And now, have fun :-)
 
-# Part I - Game stuff
-## Gaming Sources
+
+
+## Part I - Game stuff
+### Gaming Sources
 * [[Game Tutorials]] - Tutorial or tutorial series about game programming with javascript
 * [[Game Blogs]] - Blogs about game programming with javascript, tutorials, news...
 * [[Game Talks]] - Talks / Presentation about game programming
@@ -47,15 +47,15 @@ And now, have fun :-)
 * [[Javascript Games]] - for inspiration
 * [[Graphics + Sound]]
 
-# Part II - Game related stuff
-## HTML5
+##Part II - Game related stuff
+###HTML5
 * [[HTML5 Tutorials]]
 * [[HTML5 Performance]]
 * [[HTML5 Demos]]
 * [[HTML5 API]]
 * [[HTML5 + CSS]]
 
-## Javascript
+###Javascript
 * [[Javascript Tutorial]]
 * [[Javascript Articles]]
 * [[Javascript Reference]]
@@ -66,7 +66,7 @@ And now, have fun :-)
 * [Rey Bangos - The Big List of JavaScript, CSS, and HTML Development Tools, Libraries, Projects, and Books](http://blog.reybango.com/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/)
 
 
-## Books
+###Books
 * [Eloquentjavascript](http://eloquentjavascript.net/) - free eBook by Marijn Haverbeke
 * [DIVE INTO HTML5](http://diveintohtml5.org/) - free eBook by Mark Pilgrim
 * [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
@@ -75,7 +75,7 @@ And now, have fun :-)
 * [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
 * [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
 
-## Email - Newsletter
+###Email - Newsletter
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
 * [web-design-weekly](http://web-design-weekly.com/)
