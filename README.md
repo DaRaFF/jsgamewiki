@@ -59,7 +59,7 @@ And now, have fun :-)
   * [Javascript Reference](#javascript-reference)
   * [Javascript Libraries](#javascript-libraries)
   * [Javascript Performance](#javascript-performance)
-  * [[Javascript Talks]]
+  * [Javascript Talks](#javascript-talks)
   * [bebraw's jswiki](https://github.com/bebraw/jswiki/wiki) - big list of javascript libraries and resources
   * [Rey Bangos - The Big List of JavaScript, CSS, and HTML Development Tools, Libraries, Projects, and Books](http://blog.reybango.com/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/)
 * Other
@@ -296,6 +296,11 @@ because actionscript is very similar to javascript. you can definitely take away
 * [The 'Opera-2dgame' Canvas Context](http://my.opera.com/WebApplications/blog/show.dml/200788) - Article, Arve Bersvendsen
 
 
+
+##<a name="javascript-talks">Javascript Talks</a>
+* [Talks of Fronteers 2010 conference](http://vimeo.com/15984466)
+* [Talks from Douglas Crockford](http://yuiblog.com/crockford/)
+* [YUI Theater](http://developer.yahoo.com/yui/theater/)
 
 
 
