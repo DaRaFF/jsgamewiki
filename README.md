@@ -58,7 +58,7 @@ And now, have fun :-)
   * [Javascript Tutorial](#javascript-tutorial)
   * [Javascript Reference](#javascript-reference)
   * [Javascript Libraries](#javascript-libraries)
-  * [[Javascript Performance]]
+  * [Javascript Performance](#javascript-performance)
   * [[Javascript Talks]]
   * [bebraw's jswiki](https://github.com/bebraw/jswiki/wiki) - big list of javascript libraries and resources
   * [Rey Bangos - The Big List of JavaScript, CSS, and HTML Development Tools, Libraries, Projects, and Books](http://blog.reybango.com/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/)
@@ -277,6 +277,24 @@ because actionscript is very similar to javascript. you can definitely take away
 * [nowjs](http://nowjs.com/) - makes realtime web apps really easy
 * [Closure compiler](http://code.google.com/intl/de-DE/closure/compiler/) - Compiles javascript to javascript
 * [Pxxl.js](http://remcoder.github.com/Pxxl.js/) - HTML5 Canvas utility to render texts in retro style and more.
+
+
+
+
+##<a name="javascript-performance">Javascript Performance</a>
+* [JavaScript Function Call Profiling](http://ejohn.org/blog/function-call-profiling/) - Article, John Resig
+* [JSConf Talk: Games, Performance, TestSwarm](http://ejohn.org/blog/jsconf-talk-games-performance-testswarm/) - Video, John Resig
+* [jsPerf](http://jsperf.com/) - Javascript performance tests
+* [Profiling Built-In JavaScript Functions with Firebug](http://andrewtwest.com/2011/03/26/profiling-built-in-javascript-functions-with-firebug/) - Article, Andy West
+* [Nicholas C. Zakas: Speed Up Your JavaScript](http://googlecode.blogspot.com/2009/06/nicholas-c-zakas-speed-up-your.html) - Video, Nicholas C. Zakas
+* [Dev.Opera Efficient JavaScript](http://dev.opera.com/articles/view/efficient-javascript/) - Article
+* [Javascript Perfomance Best Practises](http://wiki.forum.nokia.com/index.php/JavaScript_Performance_Best_Practices) - Article
+* [Extreme Javascript Performance](http://www.slideshare.net/madrobby/extreme-javascript-performance) - Presentation, Thomas Fuchs
+* [Extreme Javascript Performance](http://net.tutsplus.com/tutorials/javascript-ajax/extreme-javascript-performance/) - Video, Thomas Fuchs
+* [Making an iPad HTML5 App & making it really fast](http://mir.aculo.us/2010/06/04/making-an-ipad-html5-app-making-it-really-fast/) - Article, Thomas Fuchs
+* [Optimizing JavaScript for extreme performance and low memory consumption](http://codeutopia.net/blog/2009/04/30/optimizing-javascript-for-extreme-performance-and-low-memory-consumption/) - Article, Jani Hartikainen
+* [The 'Opera-2dgame' Canvas Context](http://my.opera.com/WebApplications/blog/show.dml/200788) - Article, Arve Bersvendsen
+
 
 
 
