@@ -48,32 +48,23 @@ And now, have fun :-)
 * [[Graphics + Sound]]
 
 ##Part II - Game related stuff
-###HTML5
-* [[HTML5 Tutorials]]
-* [[HTML5 Performance]]
-* [[HTML5 Demos]]
-* [[HTML5 API]]
-* [[HTML5 + CSS]]
-
-###Javascript
-* [[Javascript Tutorial]]
-* [[Javascript Articles]]
-* [[Javascript Reference]]
-* [[Javascript Libraries]]
-* [[Javascript Performance]]
-* [[Javascript Talks]]
-* [bebraw's jswiki](https://github.com/bebraw/jswiki/wiki) - big list of javascript libraries and resources
-* [Rey Bangos - The Big List of JavaScript, CSS, and HTML Development Tools, Libraries, Projects, and Books](http://blog.reybango.com/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/)
-
-
-###Books
-* [Eloquentjavascript](http://eloquentjavascript.net/) - free eBook by Marijn Haverbeke
-* [DIVE INTO HTML5](http://diveintohtml5.org/) - free eBook by Mark Pilgrim
-* [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
-* [Building iPhone Apps with HTML, CSS, and JavaScript](http://ofps.oreilly.com/titles/9780596805784/) - free eBook by Jonathan Stark
-* [Javascript Bibliography](http://oreilly.com/catalog/0636920021926) - free eBook by editors of Safary books online
-* [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
-* [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
+* HTML5
+  * [[HTML5 Tutorials]]
+  * [[HTML5 Performance]]
+  * [[HTML5 Demos]]
+  * [[HTML5 API]]
+  * [[HTML5 + CSS]]
+* Javascript
+  * [[Javascript Tutorial]]
+  * [[Javascript Articles]]
+  * [[Javascript Reference]]
+  * [[Javascript Libraries]]
+  * [[Javascript Performance]]
+  * [[Javascript Talks]]
+  * [bebraw's jswiki](https://github.com/bebraw/jswiki/wiki) - big list of javascript libraries and resources
+  * [Rey Bangos - The Big List of JavaScript, CSS, and HTML Development Tools, Libraries, Projects, and Books](http://blog.reybango.com/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/)
+* Other
+  * [Books](#books)
 
 ###Email - Newsletter
 * [javascriptweekly](http://javascriptweekly.com/)
@@ -91,7 +82,7 @@ And now, have fun :-)
 
 
 
-##<a name="game-tutorials">Game Turorials</a>
+##<a name="game-tutorials">Game Tutorials</a>
 ### Javascript - Canvas
 * [Space Shooter](http://www.html5rocks.com/tutorials/canvas/notearsgame/)
 * [Breakout Clone](http://billmill.org/static/canvastutorial/index.html)
@@ -116,6 +107,18 @@ And now, have fun :-)
 because actionscript is very similar to javascript. you can definitely take away some concepts.
 
 * [Tile Based Games](http://www.tonypa.pri.ee/tbw/start.html)
+
+
+
+
+##<a name="books">Books</a>
+* [Eloquentjavascript](http://eloquentjavascript.net/) - free eBook by Marijn Haverbeke
+* [DIVE INTO HTML5](http://diveintohtml5.org/) - free eBook by Mark Pilgrim
+* [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
+* [Building iPhone Apps with HTML, CSS, and JavaScript](http://ofps.oreilly.com/titles/9780596805784/) - free eBook by Jonathan Stark
+* [Javascript Bibliography](http://oreilly.com/catalog/0636920021926) - free eBook by editors of Safary books online
+* [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
+* [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
 
 
 
