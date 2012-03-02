@@ -53,7 +53,7 @@ And now, have fun :-)
   * [HTML5 Performance](#html5-performance)
   * [HTML5 Demos](#html5-demos)
   * [HTML5 API](#html5-api)
-  * [[HTML5 + CSS]]
+  * [HTML5 + CSS](#html5-and-css)
 * Javascript
   * [[Javascript Tutorial]]
   * [[Javascript Articles]]
@@ -235,6 +235,12 @@ because actionscript is very similar to javascript. you can definitely take away
 * [HTML5 Readyness](http://html5readiness.com/)
 * [Caniuse](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 
+
+
+
+##<a name="html5-and-css">HTML5 and CSS</a>
+* [HTML5 Snippets](http://html5snippets.com/) - Examples for HTML5, CSS effects
+* [Fluid Layout Code](http://www.vanseodesign.com/css/fluid-layout-code/)
 
 
 
