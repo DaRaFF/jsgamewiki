@@ -150,6 +150,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Legend of Zelda - Game Boy emulation](http://grantgalitz.org/get_the_hell_out/LegendOfZelda_Links_Awakening/)
 * [HTML5-games](http://html5-games.org/) - game platform with different html5 games
 * [Command & Conquer Game](http://www.adityaravishankar.com/projects/games/command-and-conquer/) / [Command & Conquer Source](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer clone
+* [Top 20 HTML5 Games](http://www.netmagazine.com/features/top-20-html5-games)
 
 
 
