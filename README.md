@@ -11,9 +11,11 @@ Part II - Here is the stuff which is related to webdevelopment and can be useful
 
 
 ### Other Sources
-First start point for good javascript resources is bebraw with his sensational [jswiki](https://github.com/bebraw/jswiki/wiki). 
+First start point for good javascript resources is bebraw with his sensational [jswiki](https://github.com/bebraw/jswiki/wiki).
 
 Actually I see jsGameWiki as an addition to jsWiki for game programming topics.
+
+A second project I'm running is [webdevresources](https://github.com/DaRaFF/webdev-resources/). Here i'm collecting links for web development in general.
 
 
 ### Contributors
