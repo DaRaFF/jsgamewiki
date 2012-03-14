@@ -147,6 +147,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [html5gamejam (2010)](http://www.html5gamejam.com/games)
 * [demoJs](http://demojs.org/)
 * [banditracer](http://www.banditracer.eu/) - micro machines like game written with gamejs framework
+* [runjumpbuild game](http://runjumpbuild.com/) / [source](https://github.com/jonoxia/platform-game) - online jump'n run editor, share levels with others
 
 ###Here are some rememberable projects - but partial with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
