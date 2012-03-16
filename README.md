@@ -92,6 +92,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Blog about indiegames](http://www.indiegamepod.com/) - Videos about indiegames
 * [Blog of lostdecadegames](http://blog.lostdecadegames.com/) - Some interesting posts about game design from the company lostdecadegames
 * [Blog of Emanuele Feronato](http://www.emanueleferonato.com/) - very much posts about flash and game design, but hey, you can learn so much from flash
+* [Blog of Jake Gordon](http://codeincomplete.com/) - very good and detailled posts about some well known games implemented with javascript
 
 ###Blogs about experiments / demos
 * [Blog of mr doob](http://mrdoob.com/blog) - very exciting experiments
