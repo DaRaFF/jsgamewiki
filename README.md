@@ -167,6 +167,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Free sprites](http://teh_pro.webs.com/sprites.htm)
 * [Game sprites](http://spriters-resource.com/)
 * [Sprite database](http://neuropod.net/PHP_SDB/) - ripped, not sure if free
+* [Sprite database](http://sdb.drshnaps.com/)
 * [iconfinder](http://www.iconfinder.com/) - sprites with different licenses
 * [Tiled Map Editor](http://www.mapeditor.org/) - free open source tiled map editor
 
