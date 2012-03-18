@@ -28,6 +28,7 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * [Game Talks](#game-talks) - Talks / Presentation about game programming
 * [Game Design](#game-design) - The art of game design
 * [Game Engines](#game-engines)
+* [Game Services](#game-services) - Services which supports game programmers
 * [Javascript Games](#javascript-games) - for inspiration
 * [Graphics + Sound](#graphics-and-sound)
 
@@ -136,6 +137,13 @@ because actionscript is very similar to javascript. you can definitely take away
 ##<a name="game-engines">Game Engines</a>
 * [Game Engine list](https://github.com/bebraw/jswiki/wiki/Game-Engines) - very good an complete overview of javascript game engines
 * [storymoto](http://storymoto.gamamoto.com/) - the game story engine
+
+
+
+
+##<a name="game-services">Game Services</a>
+* [Scoreoid](http://www.scoreoid.net/) - service for scoring lists, leaderboards, in game analytics, ...
+* [Tapjs](http://www.tapjs.com/) - service for scoring lists, leaderboards, ...
 
 
 
