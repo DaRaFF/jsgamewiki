@@ -170,6 +170,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Sprite database](http://sdb.drshnaps.com/)
 * [iconfinder](http://www.iconfinder.com/) - sprites with different licenses
 * [Tiled Map Editor](http://www.mapeditor.org/) - free open source tiled map editor
+* [Arcade Font Engine](http://nfggames.com/games/fontmaker/) - online font creator
 
 ###Sound
 * [html5media](http://html5media.info/) - easy embedding of video and audio
