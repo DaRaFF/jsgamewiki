@@ -179,6 +179,10 @@ because actionscript is very similar to javascript. you can definitely take away
 * [iconfinder](http://www.iconfinder.com/) - sprites with different licenses
 * [Tiled Map Editor](http://www.mapeditor.org/) - free open source tiled map editor
 * [Arcade Font Engine](http://nfggames.com/games/fontmaker/) - online font creator
+* [Fonts](http://mfs.sub.jp/font.html) - fonts
+* [Spritelib](http://www.widgetworx.com/widgetworx/portfolio/spritelib.html) - Free Spritepack licensed under CPL
+* [gfxlib](http://www.spicypixel.net/2008/01/10/gfxlib-fuzed-a-free-developer-graphic-library/) - free developer graphic library licensed under CPL
+
 
 ###Sound
 * [html5media](http://html5media.info/) - easy embedding of video and audio
@@ -188,6 +192,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [freesound](http://www.freesound.org/) - Sounds - free
 * [Absolute sound effects archive](http://www.grsites.com/archive/sounds/) - Soundeffects - free
 * [modarchive](http://modarchive.org/) - a lot of sounds
+* [soundbible](http://soundbible.com/) - a lot of free sound effects
 
 
 
