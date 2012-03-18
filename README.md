@@ -187,6 +187,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Playonloop](http://www.playonloop.com/) - Game music - free or with costs
 * [freesound](http://www.freesound.org/) - Sounds - free
 * [Absolute sound effects archive](http://www.grsites.com/archive/sounds/) - Soundeffects - free
+* [modarchive](http://modarchive.org/) - a lot of sounds
 
 
 
