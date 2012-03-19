@@ -122,6 +122,7 @@ because actionscript is very similar to javascript. you can definitely take away
 ###Presentations / Slides
 * [5 tips for your html5 games](http://www.slideshare.net/ernesto.jimenez/5-tips-for-your-html5-games)
 * [10 tips to get started with html5 games](http://www.slideshare.net/KukoljGregory/10-tips-to-get-started-with-html5-games)
+* [HTML5 as a Game Console](http://www.slideshare.net/michalbu/html5-as-a-game-console) - by Michał Budzyński
 
 
 
@@ -165,6 +166,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [HTML5-games](http://html5-games.org/) - game platform with different html5 games
 * [Command & Conquer Game](http://www.adityaravishankar.com/projects/games/command-and-conquer/) / [Command & Conquer Source](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer clone
 * [Top 20 HTML5 Games](http://www.netmagazine.com/features/top-20-html5-games)
+* [Gaming Mozillalabs](https://gaming.mozillalabs.com/)
 
 
 
