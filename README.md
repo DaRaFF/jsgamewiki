@@ -144,7 +144,7 @@ because actionscript is very similar to javascript. you can definitely take away
 ##<a name="game-services">Game Services</a>
 * [Scoreoid](http://www.scoreoid.net/) - service for scoring lists, leaderboards, in game analytics, ...
 * [Tapjs](http://www.tapjs.com/) - service for scoring lists, leaderboards, ...
-
+* [Easywebsockets](http://easywebsocket.org/) - a WebSocket client to broadcast messages to webpages
 
 
 
