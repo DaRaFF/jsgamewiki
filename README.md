@@ -33,11 +33,11 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * [Graphics + Sound](#graphics-and-sound)
 
 ##Part II - Game Related
+* Learning / Tutorials (HTML5 / CSS / Javascript / Gaming(#tutorial)
+* HTML5 API / Standards / Specifications(#standard-api)
 * HTML5
-  * [HTML5 Tutorials](#html5-tutorials)
   * [HTML5 Performance](#html5-performance)
   * [HTML5 Demos](#html5-demos)
-  * [HTML5 API](#html5-api)
   * [HTML5 + CSS](#html5-and-css)
 * Javascript
   * [Javascript Tutorial](#javascript-tutorial)
@@ -199,25 +199,51 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
+##<a name="tutorial">Learning (HTML5 / CSS / Javascript</a>
+###Landingpages
+* [Learn HTML5 by Mozilla](https://developer.mozilla.org/en-US/learn/html5) - Great Landingpage
+* [Learn CSS by Mozilla](https://developer.mozilla.org/en-US/learn/css) - Great Landingpage
+* [Learn Javscript by Mozilla](https://developer.mozilla.org/en-US/learn/javascript) - Great Landingpage
 
-##<a name="html5-tutorials">HTML5 Tutorials</a>
-###HTML5 Tutorials
-* [HTML5 Landingpage by Mozilla](https://developer.mozilla.org/en-US/learn/html5) - Great Landingpage by Mozilla 
-* [HTML5 Gamedevs](http://www.html5gamedevs.com/) - Gamedeveloper News
-* [HTML5 Game Development](http://www.html5gamedevelopment.org/) - Game Development News and Tutorials
-* [HTML5 Rocks](http://www.html5rocks.com/tutorials/) - Tutorials
-* [The Official Guide to the HTML5 Boilerplate](http://blip.tv/nettuts/the-official-guide-to-the-html5-boilerplate-4054998) - Video tutorial by Paul Irish
-* http://www.html5tutorial.info/
+###Tutorials
+* [HTML5 Tutorials by HTML5 Rocks](http://www.html5rocks.com/tutorials/)
+* [HTML5 Tutorials by Game Development](http://www.html5gamedevelopment.org/) - Game Development News and Tutorials
+* [HTML5 Tutorials by HTML5Tutorial](http://www.html5tutorial.info) - Tutorials
 
-###HTML5 Talks
-* [Paul Irish on HTML5 Boilerplate](http://www.youtube.com/watch?v=qyM37XKkmKQ) - Talk by Paul Irish
+* [HTML5 Canvas Tutorials by HTML5CanvasTutorials](http://www.html5canvastutorials.com/) - Tutorials
 
-###Canvas Tutorials
-* [Canvas Tutorials and Resources](http://websitesmaderight.com/2011/04/html5-canvas-tutorials-and-resources/) - List of canvas tutorials and resources
-* [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/) - Tutorials
-* [31 Days of Javascript](http://www.bit-101.com/blog/?cat=17) - Canvas and Javascript Tutorials in 31 Days - search for Javascript Day X
+* [HTML5 News by Gamedev](http://www.html5gamedevs.com/) - Gamedeveloper News
+
+
+
+* [HTML5 Canvas Tutorials List](http://websitesmaderight.com/2011/04/html5-canvas-tutorials-and-resources/) - List of canvas tutorials and resources
+
+* [Javascript in 31 Days](http://www.bit-101.com/blog/?cat=17) - Canvas and Javascript Tutorials in 31 Days - search for Javascript Day X
 * [HTML5/CSS3 Workshops](http://www.youtube.com/user/ThytOS#p/u/6/f-CYAMhxbW4) - Video tutorials by ThytOS - german
 * [HTML5 Canvas Animation](http://www.youtube.com/user/ThytOS#p/u/8/0C0_Vn-txbI) - Video tutorial by ThytOS - 8000 bullets animation - german
+* [HTML5 Canvas Tutorials by Mozilla](https://developer.mozilla.org/en/canvas_tutorial)
+* [Javascript Tutorials by Opera](http://dev.opera.com/articles/javascript/)
+* [Javascript learning by koans](https://github.com/mrdavidlaing/javascript-koans) - learning by finding errors
+* [Javascript learning by LearnJs](http://learnjs.org) - short useful code snippets
+
+
+
+
+##<a name="standard-api">Standards / Specifications / API</a>
+###API
+* [HTML5 Web API](https://wiki.mozilla.org/WebAPI)
+* [HTML5 Doctor](http://html5doctor.com/) - API
+* [HTML5 Canvas](http://canvas.quaese.de/) - API - german
+
+###Specification
+* [HTML5 specification](http://developers.whatwg.org/) - Standard - a readable HTML5 specification for web developers
+* [Javascript Reference by Mozilla](https://developer.mozilla.org/en/JavaScript)
+
+###Compatibility /Feature Detection
+* [HTML5 Readyness](http://html5readiness.com/)
+* [HTML5 Please](http://html5please.com/)
+* [Caniuse](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
+* [HTML5 Mobile](http://mobilehtml5.org/) - Overview of mobile HTML compatibility and Specifications
 
 
 
@@ -244,17 +270,6 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
-##<a name="html5-api">HTML5 API</a>
-* [HTML5 Web API](https://wiki.mozilla.org/WebAPI)
-* [HTML5 Doctor](http://html5doctor.com/) - API
-* [HTML5 Canvas](http://canvas.quaese.de/) - API - german
-* [HTML5 Readyness](http://html5readiness.com/)
-* [HTML5 Please](http://html5please.com/)
-* [Caniuse](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
-
-
-
-
 ##<a name="html5-and-css">HTML5 and CSS</a>
 * [HTML5 Snippets](http://html5snippets.com/) - Examples for HTML5, CSS effects
 * [Fluid Layout Code](http://www.vanseodesign.com/css/fluid-layout-code/)
@@ -262,17 +277,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
-##<a name="javascript-tutorial">Javascript Tutorial</a>
-* [Mozilla Canvas tutorial](https://developer.mozilla.org/en/canvas_tutorial)
-* [Opera Javascript tutorials](http://dev.opera.com/articles/javascript/)
-* [koans to learn Javascript](https://github.com/mrdavidlaing/javascript-koans) - learning by finding errors
-* [learnJs](http://learnjs.org) - short useful code snippets
-
-
-
-
 ##<a name="javascript-reference">Javascript Reference</a>
-* [Javascript reference](https://developer.mozilla.org/en/JavaScript) - from Mozilla Developer Center
 * [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - best practises for javascript programming
 * [Front end development guidelines](http://taitems.github.com/Front-End-Development-Guidelines/) - best practises for front end development
 * [idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
@@ -345,9 +350,3 @@ because actionscript is very similar to javascript. you can definitely take away
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
 * [web-design-weekly](http://web-design-weekly.com/) 
-
-
-
-
-
-
