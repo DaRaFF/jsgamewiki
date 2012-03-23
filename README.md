@@ -33,8 +33,8 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * [Graphics + Sound](#graphics-and-sound)
 
 ##Part II - Game Related
-* Learning / Tutorials (HTML5 / CSS / Javascript / Gaming(#tutorial)
-* HTML5 API / Standards / Specifications(#standard-api)
+* [Learning / Tutorials (HTML5 / CSS / Javascript / Gaming](#tutorial)
+* [HTML5 API / Standards / Specifications](#standard-api)
 * HTML5
   * [HTML5 Performance](#html5-performance)
   * [HTML5 Demos](#html5-demos)
