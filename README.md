@@ -245,6 +245,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 ##<a name="html5-api">HTML5 API</a>
+* [HTML5 Web API](https://wiki.mozilla.org/WebAPI)
 * [HTML5 Doctor](http://html5doctor.com/) - API
 * [HTML5 Canvas](http://canvas.quaese.de/) - API - german
 * [HTML5 Readyness](http://html5readiness.com/)
