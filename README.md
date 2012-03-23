@@ -38,10 +38,7 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * HTML5
   * [HTML5 Performance](#html5-performance)
   * [HTML5 Demos](#html5-demos)
-  * [HTML5 + CSS](#html5-and-css)
 * Javascript
-  * [Javascript Tutorial](#javascript-tutorial)
-  * [Javascript Reference](#javascript-reference)
   * [Javascript Libraries](#javascript-libraries)
   * [Javascript Performance](#javascript-performance)
   * [Javascript Talks](#javascript-talks)
@@ -199,7 +196,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
-##<a name="tutorial">Learning (HTML5 / CSS / Javascript</a>
+##<a name="tutorial">Learning / Tutorials (HTML5 / CSS / Javascript / Gaming</a>
 ###Landingpages
 * [Learn HTML5 by Mozilla](https://developer.mozilla.org/en-US/learn/html5) - Great Landingpage
 * [Learn CSS by Mozilla](https://developer.mozilla.org/en-US/learn/css) - Great Landingpage
@@ -209,23 +206,18 @@ because actionscript is very similar to javascript. you can definitely take away
 * [HTML5 Tutorials by HTML5 Rocks](http://www.html5rocks.com/tutorials/)
 * [HTML5 Tutorials by Game Development](http://www.html5gamedevelopment.org/) - Game Development News and Tutorials
 * [HTML5 Tutorials by HTML5Tutorial](http://www.html5tutorial.info) - Tutorials
-
-* [HTML5 Canvas Tutorials by HTML5CanvasTutorials](http://www.html5canvastutorials.com/) - Tutorials
-
-* [HTML5 News by Gamedev](http://www.html5gamedevs.com/) - Gamedeveloper News
-
-
-
-* [HTML5 Canvas Tutorials List](http://websitesmaderight.com/2011/04/html5-canvas-tutorials-and-resources/) - List of canvas tutorials and resources
-
-* [Javascript in 31 Days](http://www.bit-101.com/blog/?cat=17) - Canvas and Javascript Tutorials in 31 Days - search for Javascript Day X
-* [HTML5/CSS3 Workshops](http://www.youtube.com/user/ThytOS#p/u/6/f-CYAMhxbW4) - Video tutorials by ThytOS - german
-* [HTML5 Canvas Animation](http://www.youtube.com/user/ThytOS#p/u/8/0C0_Vn-txbI) - Video tutorial by ThytOS - 8000 bullets animation - german
 * [HTML5 Canvas Tutorials by Mozilla](https://developer.mozilla.org/en/canvas_tutorial)
+* [HTML5 Canvas Tutorials by HTML5CanvasTutorials](http://www.html5canvastutorials.com/)
+* [HTML5 Canvas Tutorials by ThxtOs](http://www.youtube.com/user/ThytOS#p/u/8/0C0_Vn-txbI) - Video tutorial - 8000 bullets animation - german
+* [HTML5 Canvas Tutorials List](http://websitesmaderight.com/2011/04/html5-canvas-tutorials-and-resources/) - List of canvas tutorials and resources
+* [HTML5 News by Gamedev](http://www.html5gamedevs.com/) - Gamedeveloper News
+* [CSS3 Tutorials by ThxtOs](http://www.youtube.com/user/ThytOS#p/u/6/f-CYAMhxbW4) - Video tutorials - german
+* [CSS3 Learning with Fluid Layout Code](http://www.vanseodesign.com/css/fluid-layout-code/)
 * [Javascript Tutorials by Opera](http://dev.opera.com/articles/javascript/)
-* [Javascript learning by koans](https://github.com/mrdavidlaing/javascript-koans) - learning by finding errors
-* [Javascript learning by LearnJs](http://learnjs.org) - short useful code snippets
-
+* [Javascript Learning in 31 Days](http://www.bit-101.com/blog/?cat=17) - Canvas and Javascript Tutorials in 31 Days - search for Javascript Day X
+* [Javascript Learning by koans](https://github.com/mrdavidlaing/javascript-koans) - learning by finding errors
+* [Javascript Learning by LearnJs](http://learnjs.org) - short useful code snippets
+* [Javascript Learning by Javascript-Garden](http://bonsaiden.github.com/JavaScript-Garden/) - best practises for javascript programming
 
 
 
@@ -238,6 +230,10 @@ because actionscript is very similar to javascript. you can definitely take away
 ###Specification
 * [HTML5 specification](http://developers.whatwg.org/) - Standard - a readable HTML5 specification for web developers
 * [Javascript Reference by Mozilla](https://developer.mozilla.org/en/JavaScript)
+
+###Standards
+* [Front end development guidelines](http://taitems.github.com/Front-End-Development-Guidelines/) - best practises for front end development
+* [idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 
 ###Compatibility /Feature Detection
 * [HTML5 Readyness](http://html5readiness.com/)
@@ -266,21 +262,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Mozilla Demo Studio](https://developer.mozilla.org/en-US/demos/)
 * [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/index.html)
 * [Canvas Demos](http://www.canvasdemos.com/)
-
-
-
-
-##<a name="html5-and-css">HTML5 and CSS</a>
-* [HTML5 Snippets](http://html5snippets.com/) - Examples for HTML5, CSS effects
-* [Fluid Layout Code](http://www.vanseodesign.com/css/fluid-layout-code/)
-
-
-
-
-##<a name="javascript-reference">Javascript Reference</a>
-* [Javascript Garden](http://bonsaiden.github.com/JavaScript-Garden/) - best practises for javascript programming
-* [Front end development guidelines](http://taitems.github.com/Front-End-Development-Guidelines/) - best practises for front end development
-* [idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [HTML5 CSS3 Snippets](http://html5snippets.com/) - Examples for HTML5, CSS3 effects
 
 
 
@@ -294,7 +276,6 @@ because actionscript is very similar to javascript. you can definitely take away
 * [stats.js](https://github.com/mrdoob/stats.js) - nice little tool to show fps stats
 * [sprite.js](https://github.com/batiste/sprite.js) - tool for sprite animation + nice demos
 * [augment.js](http://olivernn.github.com/augment.js) - enrich browsers with modern javascript methods (ECMA 1.8.5)
-* [ape project](http://www.ape-project.org) - APE (Ajax Push Engine)
 * [weinre](http://pmuellr.github.com/weinre/) - Remotedebugging Console: debug your iPhone, iPad, Wii etc. remotely from your PC
 * [Socket.IO](http://socket.io/) - supports websockets and aims to make realtime apps possible in every browser and mobile device
 * [nowjs](http://nowjs.com/) - makes realtime web apps really easy
@@ -324,15 +305,6 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Talks of Fronteers 2010 conference](http://vimeo.com/15984466)
 * [Talks from Douglas Crockford](http://yuiblog.com/crockford/)
 * [YUI Theater](http://developer.yahoo.com/yui/theater/)
-
-
-
-
-
-
-
-
-
 
 
 
