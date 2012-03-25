@@ -182,6 +182,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Fonts](http://mfs.sub.jp/font.html) - fonts
 * [Spritelib](http://www.widgetworx.com/widgetworx/portfolio/spritelib.html) - Free Spritepack licensed under CPL
 * [gfxlib](http://www.spicypixel.net/2008/01/10/gfxlib-fuzed-a-free-developer-graphic-library/) - free developer graphic library licensed under CPL
+* [8bitalpha](http://www.8bitalpha.com/) - Online Service which resizes your png's from 24 to 8 bits -> for performance improvement
 
 
 ###Sound
