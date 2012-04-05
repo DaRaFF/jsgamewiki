@@ -189,6 +189,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [gfxlib](http://www.spicypixel.net/2008/01/10/gfxlib-fuzed-a-free-developer-graphic-library/) - free developer graphic library licensed under CPL
 * [8bitalpha](http://www.8bitalpha.com/) - Online Service which resizes your png's from 24 to 8 bits -> for performance improvement
 * [wpclipart](http://www.wpclipart.com/) - Free images with online cropping service
+* [Sprite](http://www.kickstarter.com/projects/539087245/spriter/) - Animation tool - not tried, but looks awesome
 
 
 ###Sound
