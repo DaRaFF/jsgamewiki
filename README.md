@@ -142,6 +142,7 @@ because actionscript is very similar to javascript. you can definitely take away
 ##<a name="game-services">Game Services</a>
 * [Scoreoid](http://www.scoreoid.net/) - service for scoring lists, leaderboards, in game analytics, ...
 * [Tapjs](http://www.tapjs.com/) - service for scoring lists, leaderboards, ...
+* [flexpi](http://flexpi.com/) - services for gaming - stats, ingame payment, social media
 * [Easywebsockets](http://easywebsocket.org/) - a WebSocket client to broadcast messages to webpages
 
 
@@ -153,9 +154,9 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Javascriptgaming](http://www.javascriptgaming.com/)
 * [html5gamejam (2010)](http://www.html5gamejam.com/games)
 * [demoJs](http://demojs.org/)
-* [html5games](http://www.html5games.net/)
 * [banditracer](http://www.banditracer.eu/) - micro machines like game written with gamejs framework
 * [runjumpbuild game](http://runjumpbuild.com/) / [source](https://github.com/jonoxia/platform-game) - online jump'n run editor, share levels with others
+* [html5-games](http://pinterest.com/netzzwerg/html5-games/) - great HTML5 games most time with an article and/or sourcecode
 
 ###Here are some rememberable projects - but partial with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
@@ -165,6 +166,10 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Command & Conquer Game](http://www.adityaravishankar.com/projects/games/command-and-conquer/) / [Command & Conquer Source](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer clone
 * [Top 20 HTML5 Games](http://www.netmagazine.com/features/top-20-html5-games)
 * [Gaming Mozillalabs](https://gaming.mozillalabs.com/)
+
+###HTML5 Games
+* [html5games](http://www.html5games.net/)
+* [launchgaming](http://www.lunchgaming.com/)
 
 
 
