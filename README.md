@@ -54,6 +54,7 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 ##<a name="game-tutorials">Game Tutorials</a>
 ###Javascript - Canvas
 * [Space Shooter](http://www.html5rocks.com/tutorials/canvas/notearsgame/)
+* [Developing a Spaceshooter by Mozilla](http://hacks.mozilla.org/2012/03/developing-a-simple-html5-space-shooter/) - source + summary of development for a space shooter
 * [Breakout Clone](http://billmill.org/static/canvastutorial/index.html)
 * [Simple Snake Game](http://css-tricks.com/9876-learn-canvas-snake-game/)
 * [HTML 5 Game Development](http://vimeo.com/22875420) - video tutorial serie from Jono X - actually running
