@@ -122,6 +122,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [5 tips for your html5 games](http://www.slideshare.net/ernesto.jimenez/5-tips-for-your-html5-games)
 * [10 tips to get started with html5 games](http://www.slideshare.net/KukoljGregory/10-tips-to-get-started-with-html5-games)
 * [HTML5 as a Game Console](http://www.slideshare.net/michalbu/html5-as-a-game-console) - by Michał Budzyński
+* [HTML5 Game Development with Javascript](http://www.slideshare.net/robhawkes/ny-html5-game-development-with-html5-javascript) - by Rob Hawkes
 
 
 
