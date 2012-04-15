@@ -162,6 +162,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [gameisart 2012](http://gameweek.gameisart.com/try-the-games/) - some html5 games made in 1 week
 * [wizard of wor](http://wizardofwor.krissz.hu/) | [wizard of wor source](http://wizardofwor.krissz.hu/source/jWoW.js)
 * [boulder dash](http://boulderdash.krissz.hu/) | [src objects](http://boulderdash.krissz.hu/source/jDashObjects.js) | [src game](http://boulderdash.krissz.hu/source/jDashGame.js) | [src kit](http://boulderdash.krissz.hu/source/jDashCkit.js) | [src sound](http://boulderdash.krissz.hu/source/jDashSound.js) | [src anim/keyboard](http://boulderdash.krissz.hu/source/jDash.js)
+* [pacman](http://www.masswerk.at/JavaPac/JS-PacMan2.html)
 
 ###Here are some rememberable projects - but partial with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
