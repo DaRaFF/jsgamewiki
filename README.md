@@ -27,7 +27,6 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * [Game Blogs](#game-blogs) - Blogs about game programming with javascript, tutorials, news...
 * [Game Talks](#game-talks) - Talks / Presentation about game programming
 * [Game Design](#game-design) - The art of game design
-* [Game Engines](#game-engines)
 * [Game Services](#game-services) - Services which supports game programmers
 * [Javascript Games](#javascript-games) - for inspiration
 * [Graphics + Sound](#graphics-and-sound)
@@ -42,7 +41,6 @@ In case you want to contribute, let's do it! Here is a place for people who whan
   * [Javascript Libraries](#javascript-libraries)
   * [Javascript Performance](#javascript-performance)
   * [Javascript Talks](#javascript-talks)
-  * [bebraw's jswiki](https://github.com/bebraw/jswiki/wiki) - big list of javascript libraries and resources
   * [Rey Bangos - The Big List of JavaScript, CSS, and HTML Development Tools, Libraries, Projects, and Books](http://blog.reybango.com/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/)
 * Other
   * [Books](#books)
@@ -131,13 +129,6 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Gameprogrammingpatterns](http://gameprogrammingpatterns.com/)
 * http://www.gamasutra.com/view/feature/6362/redesigning_wild_ones_into_.php - Article about changing a game by 10 design decisions
 * [Making html5 Games Match your Screen](http://blog.gopherwoodstudios.com/2011/04/making-html5-games-match-your-screen.html)
-
-
-
-
-##<a name="game-engines">Game Engines</a>
-* [Game Engine list](https://github.com/bebraw/jswiki/wiki/Game-Engines) - very good an complete overview of javascript game engines
-* [storymoto](http://storymoto.gamamoto.com/) - the game story engine
 
 
 
@@ -266,11 +257,8 @@ because actionscript is very similar to javascript. you can definitely take away
 ##<a name="html5-performance">HTML5 Performance</a>
 ###Articles
 * [Off-Screen Rendering (Render to Texture) with HTML5's Canvas Element](http://kaioa.com/node/103)
-* [Creating 2D Games with JavaScript & HTML5 from Dominic Szablewski on ](http://googlecode.blogspot.com/2011/05/creating-2d-games-with-javascript-html5.html) - Tips drawing performance
-* [Project: JavaScript 2D Tile Engine with HTML5 Canvas – Part 3 – Culling and Performance](http://www.johnegraham2.com/web-technology/javascript-2d-tile-engine-html5-canvas-part-3/)
-* [HTML5 Canvas DrawText Considered Harmful](http://simonsarris.com/blog/322-canvas-drawtext-considered-harmful)
+* [Improving HTML5 Canvas Performance](http://www.html5rocks.com/en/tutorials/canvas/performance/)
 * [requestAnimationFrame for Smart Animating](http://paulirish.com/2011/requestanimationframe-for-smart-animating/)
-* [Beating 60fps in javascript](http://chandler.prallfamily.com/2011/06/beating-60fps-in-javascript/)
 
 
 
