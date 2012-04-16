@@ -230,6 +230,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [HTML5 News by Gamedev](http://www.html5gamedevs.com/) - Gamedeveloper News
 * [CSS3 Tutorials by ThxtOs](http://www.youtube.com/user/ThytOS#p/u/6/f-CYAMhxbW4) - Video tutorials - german
 * [CSS3 Learning with Fluid Layout Code](http://www.vanseodesign.com/css/fluid-layout-code/)
+* [CSS3 Deck](http://cssdeck.com/) - lot of examples for CSS3
 * [Javascript Tutorials by Opera](http://dev.opera.com/articles/javascript/)
 * [Javascript Learning in 31 Days](http://www.bit-101.com/blog/?cat=17) - Canvas and Javascript Tutorials in 31 Days - search for Javascript Day X
 * [Javascript Learning by koans](https://github.com/mrdavidlaing/javascript-koans) - learning by finding errors
