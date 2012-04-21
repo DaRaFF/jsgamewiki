@@ -244,6 +244,7 @@ because actionscript is very similar to javascript. you can definitely take away
 ###Standards
 * [Front end development guidelines](http://taitems.github.com/Front-End-Development-Guidelines/) - best practises for front end development
 * [idiomatic.js](https://github.com/rwldrn/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [Whats new in a specification?](https://github.com/espadrine/New-In-A-Spec) - Overview of Changes in HTML5, ES5, ES6, DOM4, ...
 
 ###Compatibility /Feature Detection
 * [HTML5 Readyness](http://html5readiness.com/)
