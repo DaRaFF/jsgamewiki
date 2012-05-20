@@ -228,6 +228,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Javascript Learning by LearnJs](http://learnjs.org) - short useful code snippets
 * [Javascript Learning by Javascript-Garden](http://bonsaiden.github.com/JavaScript-Garden/) - best practises for javascript programming
 * [Javascript Learning by The Code Player](http://thecodeplayer.com/) - Learn HTML5,CSS3,JS Coding the new way, the Walkthroughs way!
+* [Javascript Learning by Code Avengers](http://www.codeavengers.com/) - Learn Javascript interactively in 40 lessons
 
 
 
