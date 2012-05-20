@@ -258,6 +258,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 ##<a name="html5-performance">HTML5 Performance</a>
 ###Articles
+* [CSS tricks for canvas games](http://blog.safaribooksonline.com/2012/04/25/css-tricks-for-html5-canvas-games)
 * [Off-Screen Rendering (Render to Texture) with HTML5's Canvas Element](http://kaioa.com/node/103)
 * [Improving HTML5 Canvas Performance](http://www.html5rocks.com/en/tutorials/canvas/performance/)
 * [requestAnimationFrame for Smart Animating](http://paulirish.com/2011/requestanimationframe-for-smart-animating/)
