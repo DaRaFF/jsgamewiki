@@ -138,7 +138,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Tapjs](http://www.tapjs.com/) - service for scoring lists, leaderboards, ...
 * [flexpi](http://flexpi.com/) - services for gaming - stats, ingame payment, social media
 * [Easywebsockets](http://easywebsocket.org/) - a WebSocket client to broadcast messages to webpages
-
+* [Clay.io](http://clay.io/devlanding) - service for leaderboards, achievements, data storage, analytics, payment processing, ...
 
 
 ##<a name="javascript-games">Javascript Games</a>
@@ -218,6 +218,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [HTML5 Canvas Tutorial by Malcolm Sheridan](http://html5center.sourceforge.net/A-Developer-Guide-to-HTML5-Canvas) - very good introduction to HTML5 Canvas
 * [HTML5 Canvas Tutorials by ThxtOs](http://www.youtube.com/user/ThytOS#p/u/8/0C0_Vn-txbI) - Video tutorial - 8000 bullets animation - german
 * [HTML5 Canvas Tutorials List](http://websitesmaderight.com/2011/04/html5-canvas-tutorials-and-resources/) - List of canvas tutorials and resources
+* [HTML5 Game Dev Tips](http://blog.clay.io/tag/html5gamedevelopmenttips) - 3 part series of tips and tricks
 * [HTML5 News by Gamedev](http://www.html5gamedevs.com/) - Gamedeveloper News
 * [CSS3 Tutorials by ThxtOs](http://www.youtube.com/user/ThytOS#p/u/6/f-CYAMhxbW4) - Video tutorials - german
 * [CSS3 Learning with Fluid Layout Code](http://www.vanseodesign.com/css/fluid-layout-code/)
