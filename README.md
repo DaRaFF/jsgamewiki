@@ -155,6 +155,8 @@ because actionscript is very similar to javascript. you can definitely take away
 * [wizard of wor](http://wizardofwor.krissz.hu/) | [wizard of wor source](http://wizardofwor.krissz.hu/source/jWoW.js)
 * [boulder dash](http://boulderdash.krissz.hu/) | [src objects](http://boulderdash.krissz.hu/source/jDashObjects.js) | [src game](http://boulderdash.krissz.hu/source/jDashGame.js) | [src kit](http://boulderdash.krissz.hu/source/jDashCkit.js) | [src sound](http://boulderdash.krissz.hu/source/jDashSound.js) | [src anim/keyboard](http://boulderdash.krissz.hu/source/jDash.js)
 * [pacman](http://www.masswerk.at/JavaPac/JS-PacMan2.html)
+* [breakout with game engines](http://city41.github.io/breakouts/) - the same breakout game implemented with different game engines as example
+* 
 
 ###Here are some rememberable projects - but partial with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
