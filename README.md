@@ -63,6 +63,7 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * [jsPlattformer](http://www.brighthub.com/hubfolio/matthew-casperson/blog/archive/2009/06/29/game-development-with-javascript-and-the-canvas-element.aspx) | js platform game tutorial
 * [js RPG Game Tutorial](http://dailyjs.com/2011/02/11/crafty/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+dailyjs+(DailyJS)) - made with [craftyJs game framework](http://craftyjs.com/)
 * [Super Mario Bros](http://qfox.nl/weblog/232)
+* [Tiny Platformer](http://codeincomplete.com/posts/2013/5/27/tiny_platformer/)
 * [Tile Based Game](http://www.felinesoft.com/blog/index.php/2010/09/accelerated-game-programming-with-html5-and-canvas/) - Accelerated Game Programming with HTML5 and canvas
 * [HTML5 Jump'n Run](http://purplefloyd.wordpress.com/2009/09/11/a-platform-game-written-in-html5/) - no tutorial, but excellent code for study
 * [Jumper Game with box2d Engine](http://net.tutsplus.com/tutorials/html-css-techniques/build-your-first-game-with-html5/)
