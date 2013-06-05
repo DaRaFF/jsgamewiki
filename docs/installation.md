@@ -7,9 +7,6 @@ permalink: /docs/installation/
 
 ---
 
-
----
-
 `this is a code test`
 
 ```php
