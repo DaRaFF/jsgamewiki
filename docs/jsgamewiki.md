@@ -1,9 +1,9 @@
 ---
 layout: docs
-title: Extras
 prev_section: home
 next_section: installation
 permalink: /docs/jsgamewiki/
+
 ---
 
 #Welcome to the jsGameWiki!
