@@ -283,7 +283,7 @@ because actionscript is very similar to javascript. you can definitely take away
 ##<a name="javascript-libraries">Javascript Libraries</a>
 ###Library Lists
 * [microJs](http://microjs.com/) - list of micro frameworks
-* [everyJs](http://www.everyjs.com/) - list of useful frameworks
+* [jsdb.io](http://www.jsdb.io/) - list of the best javascript libraries
 
 ###Libraries
 * [modernizr](modernizr.com/) - testing on active html5 + css features in browsers
