@@ -325,6 +325,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 ##<a name="books">Books</a>
+* [jsbooks](http://jsbooks.revolunet.com/) - list of free eBooks for javascript
 * [Eloquentjavascript](http://eloquentjavascript.net/) - free eBook by Marijn Haverbeke
 * [DIVE INTO HTML5](http://diveintohtml5.org/) - free eBook by Mark Pilgrim
 * [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
