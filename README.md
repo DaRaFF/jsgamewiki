@@ -70,6 +70,7 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * [Boulderdash](http://codeincomplete.com/posts/2011/10/25/javascript_boulderdash/)
 * [HTML5 Game Platformer](blogs.msdn.com/b/davrous/archive/2011/09/08/html5-platformer-the-complete-port-of-the-xna-game-to-lt-canvas-gt-with-easeljs.aspx)
 * [Multiplayergame with Websockets](http://rawkes.com/blog/2011/11/06/creating-a-real-time-multiplayer-game-with-websockets-and-node.js)
+* [How to Build a JRPG](http://hub.tutsplus.com/articles/how-to-build-a-jrpg-a-primer-for-game-developers--gamedev-6676)
 
 ###actionscript
 because actionscript is very similar to javascript. you can definitely take away some concepts.
