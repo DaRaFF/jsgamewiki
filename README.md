@@ -160,11 +160,11 @@ because actionscript is very similar to javascript. you can definitely take away
 * [breakout with game engines](http://city41.github.io/breakouts/) - the same breakout game implemented with different game engines as example
 * [bombermine](http://bombermine.com/) - massive multiplayer bomberman - check the uncompressed source via browser
 
-###Here are some rememberable projects - but partial with compressed code
+###Here are some rememberable projects - but mostly with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
 * [freeciv](http://play.freeciv.org/) - Online Civilisation clone
 * [Legend of Zelda - Game Boy emulation](http://grantgalitz.org/get_the_hell_out/LegendOfZelda_Links_Awakening/)
-* [HTML5-games](http://html5-games.org/) - game platform with different html5 games
+* [Treasure Arena](http://www.treasurearena.com/) - Zelda like Battle Arena
 * [Command & Conquer Game](http://www.adityaravishankar.com/projects/games/command-and-conquer/) / [Command & Conquer Source](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer clone
 * [Top 20 HTML5 Games](http://www.netmagazine.com/features/top-20-html5-games)
 * [Gaming Mozillalabs](https://gaming.mozillalabs.com/)
