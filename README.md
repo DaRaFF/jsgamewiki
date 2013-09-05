@@ -159,6 +159,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [pacman](http://www.masswerk.at/JavaPac/JS-PacMan2.html)
 * [breakout with game engines](http://city41.github.io/breakouts/) - the same breakout game implemented with different game engines as example
 * [bombermine](http://bombermine.com/) - massive multiplayer bomberman - check the uncompressed source via browser
+* [Solitr](http://www.solitr.com/) ([source](https://github.com/joliss/solitr)) - solitaire card games
 
 ###Here are some rememberable projects - but mostly with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
