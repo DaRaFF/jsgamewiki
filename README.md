@@ -215,6 +215,7 @@ because actionscript is very similar to javascript. you can definitely take away
 ###Tutorials
 * [HTML5 Tutorials by HTML5 Rocks](http://www.html5rocks.com/tutorials/)
 * [HTML5 Tutorials by Game Development](http://www.html5gamedevelopment.org/) - Game Development News and Tutorials
+* [HTML5 Tutorials by HTML5Tutorial](http://www.html5tutorial.info) - Tutorials
 * [HTML5 Tutorials by HTML5Tutorial](http://www.html5andcss3.org) - Tutorials
 * [HTML5 Tutorials by HTML5Center](http://html5center.sourceforge.net/)
 * [HTML5 Canvas Tutorials by Mozilla](https://developer.mozilla.org/en/canvas_tutorial)
