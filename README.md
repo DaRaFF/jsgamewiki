@@ -142,13 +142,17 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Easywebsockets](http://easywebsocket.org/) - a WebSocket client to broadcast messages to webpages
 * [Clay.io](http://clay.io/devlanding) - service for leaderboards, achievements, data storage, analytics, payment processing, ...
 
-
 ##<a name="javascript-games">Javascript Games</a>
-###Here you can learn so much
+###Game Jams and competitions
 * [js1k contest](http://js1k.com/)
 * [js10k contest](http://10k.aneventapart.com/)
-* [Javascriptgaming](http://www.javascriptgaming.com/)
+* [Ludum Dare](http://www.ludumdare.com)
+* [FiMaRu](http://www.fightmagicrun.com)
 * [html5gamejam (2010)](http://www.html5gamejam.com/games)
+
+###Here you can learn so much
+* [Javascriptgaming](http://www.javascriptgaming.com/)
+* [JSarcade](http://www.jsarcade.com/)
 * [demoJs](http://demojs.org/)
 * [banditracer](http://www.banditracer.eu/) - micro machines like game written with gamejs framework
 * [runjumpbuild game](http://runjumpbuild.com/) / [source](https://github.com/jonoxia/platform-game) - online jump'n run editor, share levels with others
