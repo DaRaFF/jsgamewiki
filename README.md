@@ -55,6 +55,7 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * [Developing a Spaceshooter by Mozilla](http://hacks.mozilla.org/2012/03/developing-a-simple-html5-space-shooter/) - source + summary of development for a space shooter
 * [Breakout Clone](http://billmill.org/static/canvastutorial/index.html)
 * [Simple Snake Game](http://css-tricks.com/9876-learn-canvas-snake-game/)
+* [Making Sprite-based Games with Canvas](http://jlongster.com/Making-Sprite-based-Games-with-Canvas)
 * [HTML 5 Game Development](http://vimeo.com/22875420) - video tutorial serie from Jono X - actually running
 * [The most simple RPG](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Step by step tutorial by Lost Decade Games
 * [Brickblock Game](http://css.dzone.com/articles/how-write-brikbloc-game-html5)
