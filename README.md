@@ -312,6 +312,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [nowjs](http://nowjs.com/) - makes realtime web apps really easy
 * [Closure compiler](http://code.google.com/intl/de-DE/closure/compiler/) - Compiles javascript to javascript
 * [Pxxl.js](http://remcoder.github.com/Pxxl.js/) - HTML5 Canvas utility to render texts in retro style and more.
+* [Game Modules Wiki](https://github.com/hughsk/game-modules/wiki/Modules) - A list of game-related modules and examples for writing HTML5 games with browserify
 
 
 
