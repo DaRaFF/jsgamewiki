@@ -5,21 +5,21 @@ I'm trying to structure helpful sources like eBooks, videos, blogs, articles, pr
 
 
 ### Structure
-Part I - Here is the stuff which is really relevant to game programming with html5/canvas/javascript
+Part I - Content directly relevant to game programming with html5/canvas/javascript  
+*i.e. tutorials, blog posts, engines, etc.*
 
-Part II - Here is the stuff which is related to webdevelopment and can be useful if you want to improve your basic skills
+Part II - Content related to web-development which can be useful in a game programming context  
+*i.e. html5/canvas articles, javascript performance, etc.*
 
 
 ### Other Sources
-First start point for good javascript resources is bebraw with his sensational [jswiki](https://github.com/bebraw/jswiki/wiki).
+A starting point for good javascript resources is bebraw's sensational [jswiki](https://github.com/bebraw/jswiki/wiki).  
+*(Actually I see jsGameWiki as an addition to jsWiki for game programming topics)*
 
-Actually I see jsGameWiki as an addition to jsWiki for game programming topics.
-
-A second project I'm running is [webdevresources](https://github.com/DaRaFF/webdev-resources/). Here i'm collecting links for web development in general.
-
+A second project I'm running is [webdevresources](https://github.com/DaRaFF/webdev-resources/), a collection of links on web-development in general.
 
 ### Contributors
-In case you want to contribute, let's do it! Here is a place for people who whants to learn something about game programming and I'm very happy if you have some interesting sources.
+In case you want to contribute, be my guest! Here is a place for people who want to learn something about game programming and I'm very happy if you have some interesting sources to share.
 
 
 ## Part I - Game Sources
