@@ -27,9 +27,10 @@ In case you want to contribute, let's do it! Here is a place for people who whan
 * [Game Blogs](#game-blogs) - Blogs about game programming with javascript, tutorials, news...
 * [Game Talks](#game-talks) - Talks / Presentation about game programming
 * [Game Design](#game-design) - The art of game design
+* [Game Engines](#game-engines) - choose your game engine
 * [Game Services](#game-services) - Services which supports game programmers
 * [Javascript Games](#javascript-games) - for inspiration
-* [Graphics + Sound](#graphics-and-sound)
+* [Graphics + Sound](#graphics-and-sound) - some tools for graphics + sound
 
 ##Part II - Game Related
 * [Learning / Tutorials (HTML5 / CSS / Javascript / Gaming](#tutorial)
@@ -132,6 +133,14 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Gameprogrammingpatterns](http://gameprogrammingpatterns.com/)
 * http://www.gamasutra.com/view/feature/6362/redesigning_wild_ones_into_.php - Article about changing a game by 10 design decisions
 * [Making html5 Games Match your Screen](http://blog.gopherwoodstudios.com/2011/04/making-html5-games-match-your-screen.html)
+
+
+
+
+##<a name="#game-engines">Game Engines</a>
+* [Bebraw's Game Engines List](https://github.com/bebraw/jswiki/wiki/Game-Engines) - Huge List about existing game engines with some filter criteria
+* [HTML5 Game Engine](http://html5gameengine.com/) - another small game engine list
+* [Game Engine Comparison](http://buildnewgames.com/game-engine-comparison/) - In this article craftyJs, LimeJs and ImpactJs are compared
 
 
 
