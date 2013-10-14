@@ -61,7 +61,6 @@ In case you want to contribute, be my guest! Here is a place for people who want
 * [HTML 5 Game Development](http://vimeo.com/22875420) - video tutorial serie from Jono X - actually running
 * [The most simple RPG](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Step by step tutorial by Lost Decade Games
 * [Brickblock Game](http://css.dzone.com/articles/how-write-brikbloc-game-html5)
-* [Snake Game](http://ralphsaunders.co.uk/blogged-about/snake-in-html5-canvas-a-tutorial/) - Step by step tutorial by Ralph Saunders
 * [Doodle Jump Clone](http://michalbe.blogspot.com/2010/09/simple-game-with-html5-canvas-part-1.html)
 * [jsPlattformer](http://www.brighthub.com/hubfolio/matthew-casperson/blog/archive/2009/06/29/game-development-with-javascript-and-the-canvas-element.aspx) | js platform game tutorial
 * [js RPG Game Tutorial](http://dailyjs.com/2011/02/11/crafty/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+dailyjs+(DailyJS)) - made with [craftyJs game framework](http://craftyjs.com/)
@@ -223,7 +222,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
-##<a name="tutorial">Learning / Tutorials (HTML5 / CSS / Javascript / Gaming</a>
+##<a name="tutorial">Learning / Tutorials (HTML5 / CSS / Javascript / Gaming)</a>
 ###Landingpages
 * [Learn HTML5 by Mozilla](https://developer.mozilla.org/en-US/learn/html5) - Great Landingpage
 * [Learn CSS by Mozilla](https://developer.mozilla.org/en-US/learn/css) - Great Landingpage
