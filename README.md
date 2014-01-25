@@ -357,3 +357,4 @@ because actionscript is very similar to javascript. you can definitely take away
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
 * [web-design-weekly](http://web-design-weekly.com/) 
+* [gamedev-js-weekly](http://weekly.gamedevjs.com/)
