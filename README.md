@@ -156,6 +156,7 @@ because actionscript is very similar to javascript. you can definitely take away
 ###Game Jams and competitions
 * [js1k contest](http://js1k.com/)
 * [js10k contest](http://10k.aneventapart.com/)
+* [js13k games](http://js13kgames.com/)
 * [Ludum Dare](http://www.ludumdare.com)
 * [FiMaRu](http://www.fightmagicrun.com)
 * [html5gamejam (2010)](http://www.html5gamejam.com/games)
