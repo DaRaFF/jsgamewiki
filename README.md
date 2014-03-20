@@ -73,6 +73,7 @@ In case you want to contribute, be my guest! Here is a place for people who want
 * [HTML5 Game Platformer](http://blogs.msdn.com/b/davrous/archive/2011/09/08/html5-platformer-the-complete-port-of-the-xna-game-to-lt-canvas-gt-with-easeljs.aspx)
 * [Multiplayergame with Websockets](http://rawkes.com/articles/creating-a-real-time-multiplayer-game-with-websockets-and-node.html)
 * [How to Build a JRPG](http://hub.tutsplus.com/articles/how-to-build-a-jrpg-a-primer-for-game-developers--gamedev-6676)
+* [Angry Birds Clone] (http://training.bocoup.com/screencasts/make-your-own-angry-birds/)
 
 ###actionscript
 because actionscript is very similar to javascript. you can definitely take away some concepts.
