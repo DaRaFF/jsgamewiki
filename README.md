@@ -97,6 +97,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Blog of Jake Gordon](http://codeincomplete.com/) - very good and detailled posts about some well known games implemented with javascript
 * [Blog of Bocoup](http://buildnewgames.com/) - articles about specific parts for game development
 * [Wiki of Dojogame](http://kata.coderdojo.com/wiki/Dojogame) - good dojos, tutorials, links for html5 games
+* [Ray Wenderlich](http://raywenderlich.com) - GameDev programming tutorials and articles
 
 ###Blogs about experiments / demos
 * [Blog of mr doob](http://mrdoob.com/blog) - very exciting experiments
