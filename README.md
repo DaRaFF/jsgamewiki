@@ -359,7 +359,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 ###Lists of free eBooks
 * [jsbooks](http://jsbooks.revolunet.com) — JavaScript
-* [free-programming-books](/vhf/free-programming-books) — Different themes and languages
+* [free-programming-books](//github.com/vhf/free-programming-books) — Different themes and languages
 
 
 ##<a name="email-newsletter">Email - Newsletter</a>
