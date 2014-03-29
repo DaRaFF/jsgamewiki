@@ -348,9 +348,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 
-
 ##<a name="books">Books</a>
-* [jsbooks](http://jsbooks.revolunet.com/) - list of free eBooks for javascript
 * [Eloquentjavascript](http://eloquentjavascript.net/) - free eBook by Marijn Haverbeke
 * [DIVE INTO HTML5](http://diveintohtml5.org/) - free eBook by Mark Pilgrim
 * [Essential JavaScript Design Patterns For Beginners](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/) - free eBook by Addy Osmani
@@ -358,6 +356,11 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Javascript Bibliography](http://oreilly.com/catalog/0636920021926) - free eBook by editors of Safary books online
 * [OOP mit Javascript](http://www.peterkropff.de/site/javascript/oop.htm) - free eBook by Peter Kropff- german
 * [HTML5 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) - free eBook by Stefan Münz - german
+
+###Lists of free eBooks
+* [jsbooks](http://jsbooks.revolunet.com) — JavaScript
+* [free-programming-books](/vhf/free-programming-books) — Different themes and languages
+
 
 ##<a name="email-newsletter">Email - Newsletter</a>
 * [javascriptweekly](http://javascriptweekly.com/)
