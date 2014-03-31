@@ -180,6 +180,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Solitr](http://www.solitr.com/) ([source](https://github.com/joliss/solitr)) - solitaire card games
 * [Full Screen Mario](https://github.com/Diogenesthecynic/FullScreenMario) - awesome HTML5 Mario Clone
 * [LessMilk](http://www.lessmilk.com/) - one game per week challenge with sourcecode and blog
+* [OnSlaught Arena](https://github.com/lostdecade/onslaught_arena)
 
 ###Here are some rememberable projects - but mostly with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
