@@ -74,6 +74,7 @@ In case you want to contribute, be my guest! Here is a place for people who want
 * [Multiplayergame with Websockets](http://rawkes.com/articles/creating-a-real-time-multiplayer-game-with-websockets-and-node.html)
 * [How to Build a JRPG](http://hub.tutsplus.com/articles/how-to-build-a-jrpg-a-primer-for-game-developers--gamedev-6676)
 * [Angry Birds Clone] (http://training.bocoup.com/screencasts/make-your-own-angry-birds/)
+* [BomberMan Clone] (http://www.yusufaytas.com/implementing-html5-bomberman/)
 
 ###actionscript
 because actionscript is very similar to javascript. you can definitely take away some concepts.
