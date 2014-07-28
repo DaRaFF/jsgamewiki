@@ -99,6 +99,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Blog of Bocoup](http://buildnewgames.com/) - articles about specific parts for game development
 * [Wiki of Dojogame](http://kata.coderdojo.com/wiki/Dojogame) - good dojos, tutorials, links for html5 games
 * [Ray Wenderlich](http://raywenderlich.com) - GameDev programming tutorials and articles
+* [LessMilk's Blog](http://www.lessmilk.com/) - GameDev programming tutorials using Phaser Game Engine
 
 ###Blogs about experiments / demos
 * [Blog of mr doob](http://mrdoob.com/blog) - very exciting experiments
@@ -257,6 +258,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Javascript Learning by koans](https://github.com/mrdavidlaing/javascript-koans) - learning by finding errors
 * [Javascript Learning by LearnJs](http://learnjs.org) - short useful code snippets
 * [Javascript Learning by Javascript-Garden](http://bonsaiden.github.com/JavaScript-Garden/) - best practises for javascript programming
+* [Learn JavaScript interactively in CodeCademy](http://www.codecademy.com/) - Learn programing by doing it.
 * [Javascript Learning by The Code Player](http://thecodeplayer.com/) - Learn HTML5,CSS3,JS Coding the new way, the Walkthroughs way!
 * [Javascript Learning by Code Avengers](http://www.codeavengers.com/) - Learn Javascript interactively in 40 lessons
 
@@ -362,7 +364,7 @@ because actionscript is very similar to javascript. you can definitely take away
 ###Lists of free eBooks
 * [jsbooks](http://jsbooks.revolunet.com) — JavaScript
 * [free-programming-books](//github.com/vhf/free-programming-books) — Different themes and languages
-
+* [Learn How To Plan, Create, and Promote Games](http://www.lessmilk.com/content/lessmilk.pdf) - This book brifely introduce you to some inportent steps in Game Development.
 
 ##<a name="email-newsletter">Email - Newsletter</a>
 * [javascriptweekly](http://javascriptweekly.com/)
