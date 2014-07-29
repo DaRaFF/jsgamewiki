@@ -366,6 +366,37 @@ because actionscript is very similar to javascript. you can definitely take away
 * [free-programming-books](//github.com/vhf/free-programming-books) — Different themes and languages
 * [Learn How To Plan, Create, and Promote Games](http://www.lessmilk.com/content/lessmilk.pdf) - This book brifely introduce you to some inportent steps in Game Development.
 
+##Commercial books on HTML5 Game Development
+###General Game Development
+* [HTML5 Games Development by Example: Beginner’s Guide](http://shop.oreilly.com/product/9781849691260.do)
+* [HTML5 Game Development For Dummie](http://shop.oreilly.com/product/9781118074763.do)
+* [HTML5 Game Development Insights](http://www.apress.com/9781430266976)
+* [Professional HTML5 Mobile Game Development](http://shop.oreilly.com/product/9781118301326.do)
+* [Learning HTML5 Game Programming](http://www.amazon.in/Learning-HTML5-Game-Programming-Hands/dp/0321767365)
+* [Pro HTML5 Games](http://www.apress.com/9781430247104)
+* [HTML5 Game Development HOTSHOT](http://shop.oreilly.com/product/9781849695466.do)
+* [HTML5 Games Most Wanted](http://www.apress.com/9781430239789)
+* [Building JavaScript Games for Phones, Tablets, and Desktop](http://www.apress.com/9781430265382)
+
+###Books explaining a specific JS game engine
+* [HTML5 Game Development with ImpactJS](http://shop.oreilly.com/product/9781849694568.do)
+* [HTML5 Game Programming with enchant.js](http://www.apress.com/9781430247432)
+* [Beginning HTML5 Games with CreateJS](http://www.apress.com/9781430263401)
+* [Introducing HTML5 Game Development with ImpactJS](http://shop.oreilly.com/product/0636920022633.do)
+* [jQuery Game Development Essentials](http://www.packtpub.com/jquery-game-development-essentials/book)
+* [Discover Phaser](http://discoverphaser.com/)
+* [WebGL Game Development](http://www.packtpub.com/webgl-game-development/book)
+
+
+###Other useful books on Game Development
+* [Physics for JavaScript Games, Animation, and Simulations with HTML5 Canvas](http://www.apress.com/9781430263371)
+* [HTML5 Canvas, 2nd Edition](http://shop.oreilly.com/product/0636920026266.do)
+* [HTML5 Canvas Cookbook](http://shop.oreilly.com/product/9781849691369.do)
+* [Physics for Game Developers](http://shop.oreilly.com/product/9780596000066.do)
+* [Physics for Game Programmers](http://www.amazon.com/Physics-Game-Programmers-Grant-Palmer/dp/159059472X/ref=pd_sim_b_1?ie=UTF8&refRID=1C3ABMPVB0DK53M1JJS8)
+* [AI for Game Developers](http://shop.oreilly.com/product/9780596005559.do)
+
+
 ##<a name="email-newsletter">Email - Newsletter</a>
 * [javascriptweekly](http://javascriptweekly.com/)
 * [html5weekly](http://html5weekly.com/)
