@@ -155,6 +155,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Tapjs](http://www.tapjs.com/) - service for scoring lists, leaderboards, ...
 * [flexpi](http://flexpi.com/) - services for gaming - stats, ingame payment, social media
 * [Easywebsockets](http://easywebsocket.org/) - a WebSocket client to broadcast messages to webpages
+* [Itch.io](http://itch.io/) - Game distribution platform for indie-developers.
 * [Clay.io](http://clay.io/devlanding) - service for leaderboards, achievements, data storage, analytics, payment processing, ...
 
 ##<a name="javascript-games">Javascript Games</a>
@@ -305,7 +306,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Physics for Lazy Game Developers](http://labs.skookum.com/demos/barcampclt_physics/index.html)
 * [Canvas Demos](http://www.canvasdemos.com/)
 * [HTML5 CSS3 Snippets](http://html5snippets.com/) - Examples for HTML5, CSS3 effects
-
+* [Simple Physics](https://github.com/skadimoolam/SimplePhysics) - Examples of Simple Physics models that Game Developers can make use of. P.S This is still a WorkInProgress project but as time goes you can expect lots of great examples.
 
 
 ##<a name="javascript-libraries">Javascript Libraries</a>
