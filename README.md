@@ -99,7 +99,6 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Blog of Bocoup](http://buildnewgames.com/) - articles about specific parts for game development
 * [Wiki of Dojogame](http://kata.coderdojo.com/wiki/Dojogame) - good dojos, tutorials, links for html5 games
 * [Ray Wenderlich](http://raywenderlich.com) - GameDev programming tutorials and articles
-* [LessMilk's Blog](http://www.lessmilk.com/) - GameDev programming tutorials using Phaser Game Engine
 
 ###Blogs about experiments / demos
 * [Blog of mr doob](http://mrdoob.com/blog) - very exciting experiments
