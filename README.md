@@ -341,7 +341,7 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Making an iPad HTML5 App & making it really fast](http://mir.aculo.us/2010/06/04/making-an-ipad-html5-app-making-it-really-fast/) - Article, Thomas Fuchs
 * [Optimizing JavaScript for extreme performance and low memory consumption](http://codeutopia.net/blog/2009/04/30/optimizing-javascript-for-extreme-performance-and-low-memory-consumption/) - Article, Jani Hartikainen
 * [The 'Opera-2dgame' Canvas Context](http://my.opera.com/WebApplications/blog/show.dml/200788) - Article, Arve Bersvendsen
-* [Unleas the power of HMTL5 canvas](http://blogs.msdn.com/b/eternalcoding/archive/2012/03/22/unleash-the-power-of-html-5-canvas-for-gaming-part-1.aspx)
+* [Unleas the power of HTML5 canvas](http://blogs.msdn.com/b/eternalcoding/archive/2012/03/22/unleash-the-power-of-html-5-canvas-for-gaming-part-1.aspx)
 
 
 
