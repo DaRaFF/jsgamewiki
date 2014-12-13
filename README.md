@@ -81,6 +81,10 @@ because actionscript is very similar to javascript. you can definitely take away
 
 * [Tile Based Games](http://www.tonypa.pri.ee/tbw/start.html)
 
+###how to start
+* [Where should I start to learn game development](https://www.quora.com/Where-should-I-start-to-learn-game-development)
+
+
 
 
 
