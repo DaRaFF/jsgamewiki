@@ -171,14 +171,10 @@ because actionscript is very similar to javascript. you can definitely take away
 * [FiMaRu](http://www.fightmagicrun.com)
 * [html5gamejam (2010)](http://www.html5gamejam.com/games)
 
-###Here you can learn so much
-* [Javascriptgaming](http://www.javascriptgaming.com/)
-* [JSarcade](http://www.jsarcade.com/)
-* [demoJs](http://demojs.org/)
+###Games with sourcecode
 * [banditracer](http://www.banditracer.eu/) - micro machines like game written with gamejs framework
 * [runjumpbuild game](http://runjumpbuild.com/) / [source](https://github.com/jonoxia/platform-game) - online jump'n run editor, share levels with others
 * [html5-games](http://pinterest.com/netzzwerg/html5-games/) - great HTML5 games most time with an article and/or sourcecode
-* [gameisart 2012](http://gameweek.gameisart.com/try-the-games/) - some html5 games made in 1 week
 * [wizard of wor](http://wizardofwor.krissz.hu/) | [wizard of wor source](http://wizardofwor.krissz.hu/source/jWoW.js)
 * [boulder dash](http://boulderdash.krissz.hu/) | [src objects](http://boulderdash.krissz.hu/source/jDashObjects.js) | [src game](http://boulderdash.krissz.hu/source/jDashGame.js) | [src kit](http://boulderdash.krissz.hu/source/jDashCkit.js) | [src sound](http://boulderdash.krissz.hu/source/jDashSound.js) | [src anim/keyboard](http://boulderdash.krissz.hu/source/jDash.js)
 * [pacman](http://www.masswerk.at/JavaPac/JS-PacMan2.html)
@@ -188,6 +184,12 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Full Screen Mario](https://github.com/Diogenesthecynic/FullScreenMario) - awesome HTML5 Mario Clone
 * [LessMilk](http://www.lessmilk.com/) - one game per week challenge with sourcecode and blog
 * [OnSlaught Arena](https://github.com/lostdecade/onslaught_arena)
+* [2048](https://github.com/gabrielecirulli/2048) - a 1024 clone
+* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - a flappy bird clone
+* [mk.js](https://github.com/mgechev/mk.js) - mortal combat clone
+* [Astray](https://github.com/wwwtyro/Astray) - a webGl maze game
+* [Hextris](https://github.com/Hextris/hextris) - A fast paced puzzle game inspired by Tetris
+* [Pacman](https://github.com/daleharvey/pacman)
 
 ###Here are some rememberable projects - but mostly with compressed code
 * [canvasrider](http://canvasrider.com/) - it's fun
