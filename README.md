@@ -208,6 +208,9 @@ because actionscript is very similar to javascript. you can definitely take away
 
 
 ##<a name="graphics-and-sound">Graphics and Sound</a>
+###Assets
+* [Game Assets by Andre Schmitz](https://game-assets.zeef.com/andre.antonio.schmitz) - Nice list of ressources for game assets (gaphics, sounds, video, map editors...)
+
 ###Graphic
 * [Opengameart](http://opengameart.org/) - Free, legal art for open source game projects
 * [Free sprites](http://teh_pro.webs.com/sprites.htm)
