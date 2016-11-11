@@ -53,6 +53,7 @@ In case you want to contribute, be my guest! Here is a place for people who want
 
 ##<a name="game-tutorials">Game Tutorials</a>
 ###Javascript - Canvas
+* [Pacman](http://www.jeffreybiles.com/build-pacman) - book about hwo to build pacman with ES6/Ember.js
 * [Space Shooter](http://www.html5rocks.com/tutorials/canvas/notearsgame/)
 * [Developing a Spaceshooter by Mozilla](http://hacks.mozilla.org/2012/03/developing-a-simple-html5-space-shooter/) - source + summary of development for a space shooter
 * [Breakout Clone](http://billmill.org/static/canvastutorial/index.html)
