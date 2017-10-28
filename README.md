@@ -123,7 +123,7 @@ because actionscript is very similar to javascript. you can definitely take away
 
 ## <a name="game-talks">Game Talks</a>
 ### Video / Audio
-* [Lunch with Rob Hawkes: HTML5 Games](http://de.justin.tv/marakana_techtv/b/289978824) - by Rob Hawkes - Overview and lessons learned for html5 game programming
+* [Lunch with Rob Hawkes: HTML5 Games](https://www.youtube.com/watch?v=KxylQ3W2iqE) - by Rob Hawkes - Overview and lessons learned for html5 game programming
 * [Building a JavaScript-Based Game Engine for the Web](http://www.youtube.com/watch?v=_RRnyChxijA)
 * [Multiplayer Gaming with HTML5: Are We Ready?](http://vimeo.com/22549177)
 * [Developing Games for the Web](http://www.youtube.com/watch?v=OnwG8Xb0_S8)
